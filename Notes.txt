@@ -1,0 +1,12 @@
+Thing to learn about typescript:
+ - nullish coalescing operator
+ - record<>
+ - metodo filter de javascript
+ - what are composables in vue?
+ - typescript generics
+ - typescript type vs interface
+
+
+Future features of the app: 
+ - Word notebook
+A "save" button on each word that adds it to a personal vocabulary notebook. The notebook page shows all saved words with their definitions and lets you review them.

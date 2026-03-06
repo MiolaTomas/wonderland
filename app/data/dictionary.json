@@ -1,0 +1,924 @@
+{
+  "words": [
+    {
+      "word": "Late",
+      "part_of_speech": "adjective",
+      "definition_es": "Que ocurre después del tiempo esperado.",
+      "example_en": "He arrived late yesterday.",
+      "example_es": "Llegó tarde ayer.",
+      "ipa": "/leɪt/"
+    },
+    {
+      "word": "at",
+      "part_of_speech": "preposition",
+      "definition_es": "Indica un punto específico en tiempo o lugar.",
+      "example_en": "She waits at the station.",
+      "example_es": "Ella espera en la estación.",
+      "ipa": "/æt/"
+    },
+    {
+      "word": "night",
+      "part_of_speech": "noun",
+      "definition_es": "Periodo de oscuridad entre el atardecer y el amanecer.",
+      "example_en": "The city is calm at night.",
+      "example_es": "La ciudad está tranquila por la noche.",
+      "ipa": "/naɪt/"
+    },
+    {
+      "word": ",",
+      "part_of_speech": "punctuation",
+      "definition_es": "Signo que separa partes de una oración.",
+      "example_en": "I bought apples, oranges, and bread.",
+      "example_es": "Compré manzanas, naranjas y pan.",
+      "ipa": ""
+    },
+    {
+      "word": "Daniel",
+      "part_of_speech": "proper_noun",
+      "definition_es": "Nombre propio masculino.",
+      "example_en": "Daniel opened the door.",
+      "example_es": "Daniel abrió la puerta.",
+      "ipa": "/ˈdænjəl/"
+    },
+    {
+      "word": "walked",
+      "part_of_speech": "verb",
+      "definition_es": "Pasado del verbo caminar.",
+      "example_en": "She walked to school.",
+      "example_es": "Ella caminó a la escuela.",
+      "ipa": "/wɔːkt/"
+    },
+    {
+      "word": "slowly",
+      "part_of_speech": "adverb",
+      "definition_es": "De manera lenta.",
+      "example_en": "The turtle moved slowly.",
+      "example_es": "La tortuga se movió lentamente.",
+      "ipa": "/ˈsloʊli/"
+    },
+    {
+      "word": "through",
+      "part_of_speech": "preposition",
+      "definition_es": "De un lado a otro dentro de algo.",
+      "example_en": "They walked through the forest.",
+      "example_es": "Caminaron a través del bosque.",
+      "ipa": "/θruː/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_es": "Artículo definido que señala algo específico.",
+      "example_en": "The dog is sleeping.",
+      "example_es": "El perro está durmiendo.",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "quiet",
+      "part_of_speech": "adjective",
+      "definition_es": "Con poco o ningún ruido.",
+      "example_en": "It was a quiet street.",
+      "example_es": "Era una calle tranquila.",
+      "ipa": "/ˈkwaɪət/"
+    },
+    {
+      "word": "streets",
+      "part_of_speech": "noun",
+      "definition_es": "Plural de calle, vías públicas en una ciudad.",
+      "example_en": "The streets were empty.",
+      "example_es": "Las calles estaban vacías.",
+      "ipa": "/striːts/"
+    },
+    {
+      "word": "of",
+      "part_of_speech": "preposition",
+      "definition_es": "Indica relación o pertenencia.",
+      "example_en": "A cup of tea.",
+      "example_es": "Una taza de té.",
+      "ipa": "/əv/"
+    },
+    {
+      "word": "a",
+      "part_of_speech": "article",
+      "definition_es": "Artículo indefinido.",
+      "example_en": "A cat sat outside.",
+      "example_es": "Un gato se sentó afuera.",
+      "ipa": "/ə/"
+    },
+    {
+      "word": "small",
+      "part_of_speech": "adjective",
+      "definition_es": "De tamaño reducido.",
+      "example_en": "They live in a small house.",
+      "example_es": "Viven en una casa pequeña.",
+      "ipa": "/smɔːl/"
+    },
+    {
+      "word": "coastal",
+      "part_of_speech": "adjective",
+      "definition_es": "Relacionado con la costa.",
+      "example_en": "It is a coastal town.",
+      "example_es": "Es un pueblo costero.",
+      "ipa": "/ˈkoʊstəl/"
+    },
+    {
+      "word": "town",
+      "part_of_speech": "noun",
+      "definition_es": "Una ciudad o pueblo pequeño.",
+      "example_en": "The town is peaceful.",
+      "example_es": "El pueblo es tranquilo.",
+      "ipa": "/taʊn/"
+    },
+    {
+      "word": ".",
+      "part_of_speech": "punctuation",
+      "definition_es": "Punto final que indica el fin de una oración.",
+      "example_en": "She went home.",
+      "example_es": "Ella se fue a casa.",
+      "ipa": ""
+    },
+
+    {
+      "word": "A",
+      "part_of_speech": "article",
+      "definition_es": "Artículo indefinido.",
+      "example_en": "A bird flew away.",
+      "example_es": "Un pájaro voló.",
+      "ipa": "/ə/"
+    },
+    {
+      "word": "cold",
+      "part_of_speech": "adjective",
+      "definition_es": "Con baja temperatura.",
+      "example_en": "The water is cold.",
+      "example_es": "El agua está fría.",
+      "ipa": "/koʊld/"
+    },
+    {
+      "word": "wind",
+      "part_of_speech": "noun",
+      "definition_es": "Movimiento natural del aire.",
+      "example_en": "The wind blew strongly.",
+      "example_es": "El viento sopló fuerte.",
+      "ipa": "/wɪnd/"
+    },
+    {
+      "word": "moved",
+      "part_of_speech": "verb",
+      "definition_es": "Pasado del verbo mover.",
+      "example_en": "The leaves moved.",
+      "example_es": "Las hojas se movieron.",
+      "ipa": "/muːvd/"
+    },
+    {
+      "word": "between",
+      "part_of_speech": "preposition",
+      "definition_es": "En medio de dos cosas.",
+      "example_en": "The ball rolled between chairs.",
+      "example_es": "La pelota rodó entre las sillas.",
+      "ipa": "/bɪˈtwiːn/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_es": "Artículo definido.",
+      "example_en": "The sun is bright.",
+      "example_es": "El sol es brillante.",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "houses",
+      "part_of_speech": "noun",
+      "definition_es": "Plural de casa.",
+      "example_en": "The houses are old.",
+      "example_es": "Las casas son antiguas.",
+      "ipa": "/ˈhaʊzɪz/"
+    },
+    {
+      "word": ",",
+      "part_of_speech": "punctuation",
+      "definition_es": "Signo que separa elementos.",
+      "example_en": "I bought milk, bread, and eggs.",
+      "example_es": "Compré leche, pan y huevos.",
+      "ipa": ""
+    },
+    {
+      "word": "carrying",
+      "part_of_speech": "verb",
+      "definition_es": "Transportando o llevando algo.",
+      "example_en": "She is carrying a bag.",
+      "example_es": "Ella está llevando una bolsa.",
+      "ipa": "/ˈkæriɪŋ/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_es": "Artículo definido.",
+      "example_en": "The moon is bright.",
+      "example_es": "La luna es brillante.",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "distant",
+      "part_of_speech": "adjective",
+      "definition_es": "Lejano en distancia.",
+      "example_en": "They heard a distant sound.",
+      "example_es": "Escucharon un sonido distante.",
+      "ipa": "/ˈdɪstənt/"
+    },
+    {
+      "word": "sound",
+      "part_of_speech": "noun",
+      "definition_es": "Algo que se oye.",
+      "example_en": "I heard a strange sound.",
+      "example_es": "Escuché un sonido extraño.",
+      "ipa": "/saʊnd/"
+    },
+    {
+      "word": "of",
+      "part_of_speech": "preposition",
+      "definition_es": "Indica relación.",
+      "example_en": "A piece of cake.",
+      "example_es": "Un pedazo de torta.",
+      "ipa": "/əv/"
+    },
+    {
+      "word": "waves",
+      "part_of_speech": "noun",
+      "definition_es": "Ondas del mar.",
+      "example_en": "The waves hit the shore.",
+      "example_es": "Las olas golpearon la orilla.",
+      "ipa": "/weɪvz/"
+    },
+    {
+      "word": ".",
+      "part_of_speech": "punctuation",
+      "definition_es": "Fin de una oración.",
+      "example_en": "He stopped.",
+      "example_es": "Él se detuvo.",
+      "ipa": ""
+    },
+
+    {
+      "word": "While",
+      "part_of_speech": "conjunction",
+      "definition_es": "Conector que indica simultaneidad.",
+      "example_en": "While I read, she cooked.",
+      "example_es": "Mientras yo leía, ella cocinaba.",
+      "ipa": "/waɪl/"
+    },
+    {
+      "word": "passing",
+      "part_of_speech": "verb",
+      "definition_es": "Forma continua de pasar.",
+      "example_en": "He was passing the store.",
+      "example_es": "Él estaba pasando por la tienda.",
+      "ipa": "/ˈpæsɪŋ/"
+    },
+    {
+      "word": "an",
+      "part_of_speech": "article",
+      "definition_es": "Artículo indefinido usado antes de vocal.",
+      "example_en": "An apple fell.",
+      "example_es": "Una manzana cayó.",
+      "ipa": "/æn/"
+    },
+    {
+      "word": "old",
+      "part_of_speech": "adjective",
+      "definition_es": "Con muchos años.",
+      "example_en": "The building is old.",
+      "example_es": "El edificio es viejo.",
+      "ipa": "/oʊld/"
+    },
+    {
+      "word": "bookstore",
+      "part_of_speech": "noun",
+      "definition_es": "Tienda donde se venden libros.",
+      "example_en": "The bookstore closes early.",
+      "example_es": "La librería cierra temprano.",
+      "ipa": "/ˈbʊkstɔːr/"
+    },
+    {
+      "word": ",",
+      "part_of_speech": "punctuation",
+      "definition_es": "Signo que separa partes de la oración.",
+      "example_en": "I bought tea, coffee, and milk.",
+      "example_es": "Compré té, café y leche.",
+      "ipa": ""
+    },
+    {
+      "word": "he",
+      "part_of_speech": "pronoun",
+      "definition_es": "Pronombre personal masculino.",
+      "example_en": "He opened the window.",
+      "example_es": "Él abrió la ventana.",
+      "ipa": "/hiː/"
+    },
+    {
+      "word": "noticed",
+      "part_of_speech": "verb",
+      "definition_es": "Pasado del verbo notar o darse cuenta.",
+      "example_en": "She noticed the light.",
+      "example_es": "Ella notó la luz.",
+      "ipa": "/ˈnoʊtɪst/"
+    },
+    {
+      "word": "a",
+      "part_of_speech": "article",
+      "definition_es": "Artículo indefinido.",
+      "example_en": "A dog barked.",
+      "example_es": "Un perro ladró.",
+      "ipa": "/ə/"
+    },
+    {
+      "word": "faint",
+      "part_of_speech": "adjective",
+      "definition_es": "Débil o poco visible.",
+      "example_en": "A faint sound appeared.",
+      "example_es": "Apareció un sonido débil.",
+      "ipa": "/feɪnt/"
+    },
+    {
+      "word": "light",
+      "part_of_speech": "noun",
+      "definition_es": "Iluminación o claridad.",
+      "example_en": "The light was bright.",
+      "example_es": "La luz era brillante.",
+      "ipa": "/laɪt/"
+    },
+    {
+      "word": "inside",
+      "part_of_speech": "adverb",
+      "definition_es": "En el interior de algo.",
+      "example_en": "Come inside now.",
+      "example_es": "Ven adentro ahora.",
+      "ipa": "/ɪnˈsaɪd/"
+    },
+    {
+      "word": ".",
+      "part_of_speech": "punctuation",
+      "definition_es": "Punto final.",
+      "example_en": "She smiled.",
+      "example_es": "Ella sonrió.",
+      "ipa": ""
+    },
+
+    {
+      "word": "Curious",
+      "part_of_speech": "adjective",
+      "definition_es": "Con deseo de saber o descubrir algo.",
+      "example_en": "The child was curious.",
+      "example_es": "El niño estaba curioso.",
+      "ipa": "/ˈkjʊriəs/"
+    },
+    {
+      "word": ",",
+      "part_of_speech": "punctuation",
+      "definition_es": "Signo que separa frases.",
+      "example_en": "He ran, but he fell.",
+      "example_es": "Corrió, pero cayó.",
+      "ipa": ""
+    },
+    {
+      "word": "he",
+      "part_of_speech": "pronoun",
+      "definition_es": "Pronombre personal masculino.",
+      "example_en": "He laughed loudly.",
+      "example_es": "Él rió fuerte.",
+      "ipa": "/hiː/"
+    },
+    {
+      "word": "pushed",
+      "part_of_speech": "verb",
+      "definition_es": "Pasado del verbo empujar.",
+      "example_en": "She pushed the door.",
+      "example_es": "Ella empujó la puerta.",
+      "ipa": "/pʊʃt/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_es": "Artículo definido.",
+      "example_en": "The book fell.",
+      "example_es": "El libro cayó.",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "wooden",
+      "part_of_speech": "adjective",
+      "definition_es": "Hecho de madera.",
+      "example_en": "A wooden chair broke.",
+      "example_es": "Una silla de madera se rompió.",
+      "ipa": "/ˈwʊdən/"
+    },
+    {
+      "word": "door",
+      "part_of_speech": "noun",
+      "definition_es": "Estructura que permite entrar o salir.",
+      "example_en": "The door opened slowly.",
+      "example_es": "La puerta se abrió lentamente.",
+      "ipa": "/dɔːr/"
+    },
+    {
+      "word": "and",
+      "part_of_speech": "conjunction",
+      "definition_es": "Conector que une palabras o frases.",
+      "example_en": "Bread and butter.",
+      "example_es": "Pan y manteca.",
+      "ipa": "/ænd/"
+    },
+    {
+      "word": "stepped",
+      "part_of_speech": "verb",
+      "definition_es": "Pasado del verbo dar un paso.",
+      "example_en": "He stepped forward.",
+      "example_es": "Él dio un paso adelante.",
+      "ipa": "/stɛpt/"
+    },
+    {
+      "word": "into",
+      "part_of_speech": "preposition",
+      "definition_es": "Hacia el interior de algo.",
+      "example_en": "She walked into the room.",
+      "example_es": "Ella caminó hacia la habitación.",
+      "ipa": "/ˈɪntuː/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_es": "Artículo definido.",
+      "example_en": "The sky is blue.",
+      "example_es": "El cielo es azul.",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "dusty",
+      "part_of_speech": "adjective",
+      "definition_es": "Cubierto de polvo.",
+      "example_en": "The attic was dusty.",
+      "example_es": "El ático estaba polvoriento.",
+      "ipa": "/ˈdʌsti/"
+    },
+    {
+      "word": "room",
+      "part_of_speech": "noun",
+      "definition_es": "Espacio dentro de una casa o edificio.",
+      "example_en": "The room was dark.",
+      "example_es": "La habitación estaba oscura.",
+      "ipa": "/ruːm/"
+    },
+    {
+      "word": ".",
+      "part_of_speech": "punctuation",
+      "definition_es": "Punto final.",
+      "example_en": "He stopped.",
+      "example_es": "Él se detuvo.",
+      "ipa": ""
+    },
+
+    {
+      "word": "Shelves",
+      "part_of_speech": "noun",
+      "definition_es": "Plural de estante.",
+      "example_en": "Shelves hold books.",
+      "example_es": "Los estantes sostienen libros.",
+      "ipa": "/ʃɛlvz/"
+    },
+    {
+      "word": "filled",
+      "part_of_speech": "verb",
+      "definition_es": "Pasado del verbo llenar.",
+      "example_en": "She filled the bottle.",
+      "example_es": "Ella llenó la botella.",
+      "ipa": "/fɪld/"
+    },
+    {
+      "word": "with",
+      "part_of_speech": "preposition",
+      "definition_es": "Indica compañía o contenido.",
+      "example_en": "Coffee with milk.",
+      "example_es": "Café con leche.",
+      "ipa": "/wɪð/"
+    },
+    {
+      "word": "forgotten",
+      "part_of_speech": "adjective",
+      "definition_es": "Que ha sido olvidado.",
+      "example_en": "A forgotten story.",
+      "example_es": "Una historia olvidada.",
+      "ipa": "/fərˈɡɑːtən/"
+    },
+    {
+      "word": "books",
+      "part_of_speech": "noun",
+      "definition_es": "Plural de libro.",
+      "example_en": "Books are everywhere.",
+      "example_es": "Los libros están en todas partes.",
+      "ipa": "/bʊks/"
+    },
+    {
+      "word": "surrounded",
+      "part_of_speech": "verb",
+      "definition_es": "Pasado del verbo rodear.",
+      "example_en": "Trees surrounded the house.",
+      "example_es": "Árboles rodeaban la casa.",
+      "ipa": "/səˈraʊndɪd/"
+    },
+    {
+      "word": "him",
+      "part_of_speech": "pronoun",
+      "definition_es": "Pronombre objeto masculino.",
+      "example_en": "She called him.",
+      "example_es": "Ella lo llamó.",
+      "ipa": "/hɪm/"
+    },
+    {
+      "word": ".",
+      "part_of_speech": "punctuation",
+      "definition_es": "Punto final.",
+      "example_en": "She stopped.",
+      "example_es": "Ella se detuvo.",
+      "ipa": ""
+    },
+
+    {
+      "word": "On",
+      "part_of_speech": "preposition",
+      "definition_es": "Indica posición sobre una superficie.",
+      "example_en": "The book is on the table.",
+      "example_es": "El libro está sobre la mesa.",
+      "ipa": "/ɒn/"
+    },
+    {
+      "word": "a",
+      "part_of_speech": "article",
+      "definition_es": "Artículo indefinido.",
+      "example_en": "A dog barked.",
+      "example_es": "Un perro ladró.",
+      "ipa": "/ə/"
+    },
+    {
+      "word": "narrow",
+      "part_of_speech": "adjective",
+      "definition_es": "De poca anchura.",
+      "example_en": "A narrow street.",
+      "example_es": "Una calle angosta.",
+      "ipa": "/ˈnæroʊ/"
+    },
+    {
+      "word": "table",
+      "part_of_speech": "noun",
+      "definition_es": "Mueble con superficie plana.",
+      "example_en": "The cup is on the table.",
+      "example_es": "La taza está sobre la mesa.",
+      "ipa": "/ˈteɪbəl/"
+    },
+    {
+      "word": "rested",
+      "part_of_speech": "verb",
+      "definition_es": "Pasado del verbo descansar o apoyarse.",
+      "example_en": "The book rested there.",
+      "example_es": "El libro descansaba allí.",
+      "ipa": "/ˈrɛstɪd/"
+    },
+    {
+      "word": "a",
+      "part_of_speech": "article",
+      "definition_es": "Artículo indefinido.",
+      "example_en": "A child laughed.",
+      "example_es": "Un niño rió.",
+      "ipa": "/ə/"
+    },
+    {
+      "word": "black",
+      "part_of_speech": "adjective",
+      "definition_es": "De color negro.",
+      "example_en": "A black cat appeared.",
+      "example_es": "Apareció un gato negro.",
+      "ipa": "/blæk/"
+    },
+    {
+      "word": "notebook",
+      "part_of_speech": "noun",
+      "definition_es": "Cuaderno para escribir notas.",
+      "example_en": "She wrote in her notebook.",
+      "example_es": "Ella escribió en su cuaderno.",
+      "ipa": "/ˈnoʊtbʊk/"
+    },
+    {
+      "word": "tied",
+      "part_of_speech": "verb",
+      "definition_es": "Pasado del verbo atar.",
+      "example_en": "He tied the rope.",
+      "example_es": "Él ató la cuerda.",
+      "ipa": "/taɪd/"
+    },
+    {
+      "word": "with",
+      "part_of_speech": "preposition",
+      "definition_es": "Indica compañía o medio.",
+      "example_en": "Tea with sugar.",
+      "example_es": "Té con azúcar.",
+      "ipa": "/wɪð/"
+    },
+    {
+      "word": "red",
+      "part_of_speech": "adjective",
+      "definition_es": "Color rojo.",
+      "example_en": "A red flower.",
+      "example_es": "Una flor roja.",
+      "ipa": "/rɛd/"
+    },
+    {
+      "word": "thread",
+      "part_of_speech": "noun",
+      "definition_es": "Hilo delgado usado para coser.",
+      "example_en": "She used red thread.",
+      "example_es": "Ella usó hilo rojo.",
+      "ipa": "/θrɛd/"
+    },
+    {
+      "word": ".",
+      "part_of_speech": "punctuation",
+      "definition_es": "Punto final.",
+      "example_en": "He stopped.",
+      "example_es": "Él se detuvo.",
+      "ipa": ""
+    },
+
+    {
+      "word": "Daniel",
+      "part_of_speech": "proper_noun",
+      "definition_es": "Nombre propio masculino.",
+      "example_en": "Daniel read the book.",
+      "example_es": "Daniel leyó el libro.",
+      "ipa": "/ˈdænjəl/"
+    },
+    {
+      "word": "opened",
+      "part_of_speech": "verb",
+      "definition_es": "Pasado del verbo abrir.",
+      "example_en": "She opened the window.",
+      "example_es": "Ella abrió la ventana.",
+      "ipa": "/ˈoʊpənd/"
+    },
+    {
+      "word": "it",
+      "part_of_speech": "pronoun",
+      "definition_es": "Pronombre neutro para objetos o animales.",
+      "example_en": "It fell suddenly.",
+      "example_es": "Cayó de repente.",
+      "ipa": "/ɪt/"
+    },
+    {
+      "word": "carefully",
+      "part_of_speech": "adverb",
+      "definition_es": "Con cuidado.",
+      "example_en": "He carried it carefully.",
+      "example_es": "Lo llevó con cuidado.",
+      "ipa": "/ˈkɛrfəli/"
+    },
+    {
+      "word": "and",
+      "part_of_speech": "conjunction",
+      "definition_es": "Conector que une ideas.",
+      "example_en": "Bread and cheese.",
+      "example_es": "Pan y queso.",
+      "ipa": "/ænd/"
+    },
+    {
+      "word": "read",
+      "part_of_speech": "verb",
+      "definition_es": "Pasado del verbo leer.",
+      "example_en": "She read the letter.",
+      "example_es": "Ella leyó la carta.",
+      "ipa": "/rɛd/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_es": "Artículo definido.",
+      "example_en": "The car stopped.",
+      "example_es": "El auto se detuvo.",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "first",
+      "part_of_speech": "adjective",
+      "definition_es": "Que aparece antes que todos los demás.",
+      "example_en": "The first page is missing.",
+      "example_es": "La primera página falta.",
+      "ipa": "/fɜːrst/"
+    },
+    {
+      "word": "sentence",
+      "part_of_speech": "noun",
+      "definition_es": "Conjunto de palabras con sentido completo.",
+      "example_en": "The sentence is clear.",
+      "example_es": "La oración es clara.",
+      "ipa": "/ˈsɛntəns/"
+    },
+    {
+      "word": ".",
+      "part_of_speech": "punctuation",
+      "definition_es": "Punto final.",
+      "example_en": "She stopped.",
+      "example_es": "Ella se detuvo.",
+      "ipa": ""
+    },
+
+    {
+      "word": "The",
+      "part_of_speech": "article",
+      "definition_es": "Artículo definido.",
+      "example_en": "The dog barked.",
+      "example_es": "El perro ladró.",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "words",
+      "part_of_speech": "noun",
+      "definition_es": "Plural de palabra.",
+      "example_en": "Words have meaning.",
+      "example_es": "Las palabras tienen significado.",
+      "ipa": "/wɜːrdz/"
+    },
+    {
+      "word": "described",
+      "part_of_speech": "verb",
+      "definition_es": "Pasado del verbo describir.",
+      "example_en": "He described the scene.",
+      "example_es": "Él describió la escena.",
+      "ipa": "/dɪˈskraɪbd/"
+    },
+    {
+      "word": "his",
+      "part_of_speech": "pronoun",
+      "definition_es": "Adjetivo posesivo masculino.",
+      "example_en": "His book is here.",
+      "example_es": "Su libro está aquí.",
+      "ipa": "/hɪz/"
+    },
+    {
+      "word": "own",
+      "part_of_speech": "adjective",
+      "definition_es": "Propio o perteneciente a alguien.",
+      "example_en": "She has her own room.",
+      "example_es": "Ella tiene su propia habitación.",
+      "ipa": "/oʊn/"
+    },
+    {
+      "word": "life",
+      "part_of_speech": "noun",
+      "definition_es": "Existencia de una persona.",
+      "example_en": "Life is unpredictable.",
+      "example_es": "La vida es impredecible.",
+      "ipa": "/laɪf/"
+    },
+    {
+      "word": "with",
+      "part_of_speech": "preposition",
+      "definition_es": "Indica compañía o medio.",
+      "example_en": "Coffee with sugar.",
+      "example_es": "Café con azúcar.",
+      "ipa": "/wɪð/"
+    },
+    {
+      "word": "impossible",
+      "part_of_speech": "adjective",
+      "definition_es": "Que no puede ocurrir.",
+      "example_en": "That task is impossible.",
+      "example_es": "Esa tarea es imposible.",
+      "ipa": "/ɪmˈpɑːsəbəl/"
+    },
+    {
+      "word": "accuracy",
+      "part_of_speech": "noun",
+      "definition_es": "Precisión o exactitud.",
+      "example_en": "The report shows accuracy.",
+      "example_es": "El informe muestra precisión.",
+      "ipa": "/ˈækjərəsi/"
+    },
+    {
+      "word": ".",
+      "part_of_speech": "punctuation",
+      "definition_es": "Punto final.",
+      "example_en": "He finished.",
+      "example_es": "Él terminó.",
+      "ipa": ""
+    },
+
+    {
+      "word": "Suddenly",
+      "part_of_speech": "adverb",
+      "definition_es": "De manera repentina.",
+      "example_en": "Suddenly the lights went out.",
+      "example_es": "De repente las luces se apagaron.",
+      "ipa": "/ˈsʌdənli/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_es": "Artículo definido.",
+      "example_en": "The sky darkened.",
+      "example_es": "El cielo se oscureció.",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "light",
+      "part_of_speech": "noun",
+      "definition_es": "Iluminación.",
+      "example_en": "The light flickered.",
+      "example_es": "La luz parpadeó.",
+      "ipa": "/laɪt/"
+    },
+    {
+      "word": "flickered",
+      "part_of_speech": "verb",
+      "definition_es": "Pasado del verbo parpadear o titilar.",
+      "example_en": "The candle flickered.",
+      "example_es": "La vela titiló.",
+      "ipa": "/ˈflɪkərd/"
+    },
+    {
+      "word": ",",
+      "part_of_speech": "punctuation",
+      "definition_es": "Signo que separa frases.",
+      "example_en": "He ran, but he fell.",
+      "example_es": "Corrió, pero cayó.",
+      "ipa": ""
+    },
+    {
+      "word": "and",
+      "part_of_speech": "conjunction",
+      "definition_es": "Conector que une ideas.",
+      "example_en": "Salt and pepper.",
+      "example_es": "Sal y pimienta.",
+      "ipa": "/ænd/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_es": "Artículo definido.",
+      "example_en": "The door opened.",
+      "example_es": "La puerta se abrió.",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "door",
+      "part_of_speech": "noun",
+      "definition_es": "Entrada o salida de una habitación.",
+      "example_en": "The door closed.",
+      "example_es": "La puerta se cerró.",
+      "ipa": "/dɔːr/"
+    },
+    {
+      "word": "behind",
+      "part_of_speech": "preposition",
+      "definition_es": "En la parte posterior de algo.",
+      "example_en": "The dog hid behind the tree.",
+      "example_es": "El perro se escondió detrás del árbol.",
+      "ipa": "/bɪˈhaɪnd/"
+    },
+    {
+      "word": "him",
+      "part_of_speech": "pronoun",
+      "definition_es": "Pronombre objeto masculino.",
+      "example_en": "She saw him.",
+      "example_es": "Ella lo vio.",
+      "ipa": "/hɪm/"
+    },
+    {
+      "word": "closed",
+      "part_of_speech": "verb",
+      "definition_es": "Pasado del verbo cerrar.",
+      "example_en": "She closed the window.",
+      "example_es": "Ella cerró la ventana.",
+      "ipa": "/kloʊzd/"
+    },
+    {
+      "word": "softly",
+      "part_of_speech": "adverb",
+      "definition_es": "De manera suave o silenciosa.",
+      "example_en": "He spoke softly.",
+      "example_es": "Él habló suavemente.",
+      "ipa": "/ˈsɔːftli/"
+    },
+    {
+      "word": "forever",
+      "part_of_speech": "adverb",
+      "definition_es": "Para siempre.",
+      "example_en": "The story ended forever.",
+      "example_es": "La historia terminó para siempre.",
+      "ipa": "/fərˈɛvər/"
+    },
+    {
+      "word": ".",
+      "part_of_speech": "punctuation",
+      "definition_es": "Punto final.",
+      "example_en": "The story ended.",
+      "example_es": "La historia terminó.",
+      "ipa": ""
+    }
+  ]
+}
