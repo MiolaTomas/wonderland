@@ -138,13 +138,13 @@ const steps = [
                             <p class="text-2xl font-bold text-violet-600" style="letter-spacing: -0.02em;">12</p>
                             <p class="text-xs text-violet-400" style="font-family: system-ui, sans-serif;">Stories</p>
                         </div>
-                        <div class="bg-teal-50 rounded-2xl p-4 border border-teal-100 text-center">
-                            <p class="text-2xl font-bold text-teal-600" style="letter-spacing: -0.02em;">1.4k</p>
-                            <p class="text-xs text-teal-400" style="font-family: system-ui, sans-serif;">Words</p>
+                        <div class="bg-pink-100 rounded-2xl p-4 border border-pink-100 text-center">
+                            <p class="text-2xl font-bold text-pink-500" style="letter-spacing: -0.02em;">1.4k</p>
+                            <p class="text-xs text-pink-400" style="font-family: system-ui, sans-serif;">Words</p>
                         </div>
-                        <div class="bg-amber-50 rounded-2xl p-4 border border-amber-100 text-center">
-                            <p class="text-2xl font-bold text-amber-600" style="letter-spacing: -0.02em;">A1-C1</p>
-                            <p class="text-xs text-amber-400" style="font-family: system-ui, sans-serif;">Levels</p>
+                        <div class="bg-sky-100 rounded-2xl p-4 border border-sky-100 text-center">
+                            <p class="text-2xl font-bold text-sky-500" style="letter-spacing: -0.02em;">A1-C1</p>
+                            <p class="text-xs text-sky-400" style="font-family: system-ui, sans-serif;">Levels</p>
                         </div>
                     </div>
                 </div>
@@ -298,7 +298,7 @@ const steps = [
                     <h2 class="text-4xl font-bold text-slate-800" style="letter-spacing: -0.02em;">Elegí tu historia
                     </h2>
                 </div>
-                <a href="/reader" class="text-sm text-slate-400 hover:text-slate-600 underline underline-offset-4"
+                <a href="/stories" class="text-sm text-slate-400 hover:text-slate-600 underline underline-offset-4"
                     style="font-family: system-ui, sans-serif;">
                     Ver todas →
                 </a>

@@ -205,8 +205,14 @@ console.log('Unmapped POS:', [...new Set(unmappedWords.map(w => getWordData(w)?.
 
                             <div>
                                 <p class="text-xs text-muted uppercase tracking-widest mb-1">Definition</p>
+                                <p class="text-sm leading-relaxed">{{ selectedWord.definition_en }}</p>
+                            </div>
+
+                            <div>
+                                <p class="text-xs text-muted uppercase tracking-widest mb-1">Definicion</p>
                                 <p class="text-sm leading-relaxed">{{ selectedWord.definition_es }}</p>
                             </div>
+
 
                             <div>
                                 <p class="text-xs text-muted uppercase tracking-widest mb-1">Example</p>
@@ -214,7 +220,7 @@ console.log('Unmapped POS:', [...new Set(unmappedWords.map(w => getWordData(w)?.
                             </div>
 
                             <div>
-                                <p class="text-xs text-muted uppercase tracking-widest mb-1">Translation</p>
+                                <p class="text-xs text-muted uppercase tracking-widest mb-1">Ejemplo</p>
                                 <p class="text-sm leading-relaxed text-muted">{{ selectedWord.example_es }}</p>
                             </div>
 
