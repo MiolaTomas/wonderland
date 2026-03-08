@@ -298,7 +298,7 @@ const steps = [
                     <h2 class="text-4xl font-bold text-slate-800" style="letter-spacing: -0.02em;">Elegí tu historia
                     </h2>
                 </div>
-                <a href="/stories" class="text-sm text-slate-400 hover:text-slate-600 underline underline-offset-4"
+                <a href="/stories-list" class="text-sm text-slate-400 hover:text-slate-600 underline underline-offset-4"
                     style="font-family: system-ui, sans-serif;">
                     Ver todas →
                 </a>

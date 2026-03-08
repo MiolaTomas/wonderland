@@ -1,0 +1,24 @@
+[
+  {
+    "title": "The unexpected journal",
+    "slug": "the-unexpected-journal",
+    "level": "A1",
+    "genre": "fantasy",
+    "duration": "corta",
+    "emoji": "😈",
+    "description": "While visiting an unfamiliar town for a brief business trip, Daniel wanders through quiet streets late at night and discovers a small, mysterious bookstore. Inside, a simple encounter and a forgotten journal leave him with the feeling that this chance discovery may change something important in his life.",
+    "wordCount": 217,
+    "minutes": 2
+  },
+  {
+    "title": "The Last Train Home ",
+    "slug": "the-last-train-home-",
+    "level": "C1",
+    "genre": "adventure",
+    "duration": "media",
+    "emoji": "🚆",
+    "description": "While waiting alone for the last train of the night, Emma notices something unusual at the quiet station. A brief and mysterious moment leaves her with the uneasy feeling that not everything was as ordinary as it seemed. ",
+    "wordCount": 194,
+    "minutes": 1
+  }
+]

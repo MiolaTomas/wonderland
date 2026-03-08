@@ -26,7 +26,7 @@ const route = useRoute();
                 <a href="#how" class="text-sm text-slate-500 hover:text-slate-700 transition-colors">Cómo funciona</a>
 
                 <!-- Esto del renderizado condicional lo hago para saber si estoy en /stories, en este caso si eso es correcto no se renderiza el boton de empezar a leer -->
-                <NuxtLink v-if="route.path !== '/stories'" to="/stories"
+                <NuxtLink v-if="route.path !== '/stories-list'" to="/stories-list"
                     class="text-sm px-5 py-2.5 rounded-full bg-slate-700 text-white hover:bg-slate-600 transition-all hover:scale-105 shadow-md shadow-slate-200">
                     Empezar a leer ✨
                 </NuxtLink>

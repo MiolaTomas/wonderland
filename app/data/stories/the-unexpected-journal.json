@@ -1,0 +1,2129 @@
+{
+  "title": "The Unexpected Journal",
+  "slug": "the-unexpected-journal",
+  "level": "B1",
+  "genre": "mystery",
+  "description": "While visiting an unfamiliar town for a brief business trip, Daniel wanders through quiet streets late at night and discovers a small, mysterious bookstore. Inside, a simple encounter and a forgotten journal leave him with the feeling that this chance discovery may change something important in his life.",
+  "wordCount": 217,
+  "createdAt": "2026-03-07",
+  "words": [
+    {
+      "word": "ate",
+      "part_of_speech": "verb",
+      "definition_en": "To ingest; to be ingested.",
+      "definition_es": "",
+      "example_en": "He's eating an apple. / Don't disturb me now; can't you see that I'm eating?",
+      "example_es": "",
+      "ipa": "/iːt/"
+    },
+    {
+      "word": "one",
+      "part_of_speech": "num",
+      "definition_en": "The number represented by the Arabic numeral 1; the numerical value equal to that cardinal number.",
+      "definition_es": "",
+      "example_en": "In some religions, there is more than one god.",
+      "example_es": "",
+      "ipa": "/wʌn/"
+    },
+    {
+      "word": "evening",
+      "part_of_speech": "noun",
+      "definition_en": "The time of day between afternoon and night.",
+      "definition_es": "tarde",
+      "example_en": "Toward evening, there was heavy rain.",
+      "example_es": "",
+      "ipa": "/ˈiːvnɪŋ/"
+    },
+    {
+      "word": ",",
+      "punctuation": true
+    },
+    {
+      "word": "Daniel",
+      "part_of_speech": "proper noun",
+      "definition_en": "A book in the Old Testament of the Bible.",
+      "definition_es": "Daniel",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ˈdænjəl/"
+    },
+    {
+      "word": "found",
+      "part_of_speech": "verb",
+      "definition_en": "To locate",
+      "definition_es": "creer",
+      "example_en": "I found this shell on the beach.",
+      "example_es": "",
+      "ipa": "/faɪnd/"
+    },
+    {
+      "word": "himself",
+      "part_of_speech": "pronoun",
+      "definition_en": "Him; the male object of a verb or preposition that also appears as the subject",
+      "definition_es": "",
+      "example_en": "He injured himself.",
+      "example_es": "",
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    {
+      "word": "wandering",
+      "part_of_speech": "verb",
+      "definition_en": "To move without purpose or specified destination; often in search of livelihood.",
+      "definition_es": "",
+      "example_en": "to wander over the fields",
+      "example_es": "",
+      "ipa": "/ˈwɒndə/"
+    },
+    {
+      "word": "through",
+      "part_of_speech": "preposition",
+      "definition_en": "From one side or end of (something) to the other.",
+      "definition_es": "",
+      "example_en": "I drove through Lausanne on my way from Geneva to Zurich.",
+      "example_es": "",
+      "ipa": "/θɹuː/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_en": "Used before a noun phrase, including a simple noun",
+      "definition_es": "el",
+      "example_en": "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+      "example_es": "",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "narrow",
+      "part_of_speech": "adjective",
+      "definition_en": "Having a small width; not wide; having opposite edges or sides that are close, especially by comparison to length or depth.",
+      "definition_es": "",
+      "example_en": "a narrow hallway",
+      "example_es": "",
+      "ipa": "/ˈnæɹ.əʊ/"
+    },
+    {
+      "word": "streets",
+      "part_of_speech": "noun",
+      "definition_en": "A paved part of road, usually in a village or a town.",
+      "definition_es": "calle",
+      "example_en": "Walk down the street until you see a hotel on the right.",
+      "example_es": "",
+      "ipa": "/stɹiːt/"
+    },
+    {
+      "word": "of",
+      "part_of_speech": "preposition",
+      "definition_en": "Expressing distance or motion.",
+      "definition_es": "de",
+      "example_en": "Take the chicken out of the freezer.",
+      "example_es": "",
+      "ipa": "/ɒv/"
+    },
+    {
+      "word": "a",
+      "part_of_speech": "character",
+      "definition_en": "The first letter of the English alphabet, called a and written in the Latin script.",
+      "definition_es": "",
+      "example_en": "Apple starts with A.",
+      "example_es": "",
+      "ipa": "/eɪ̯/"
+    },
+    {
+      "word": "town",
+      "part_of_speech": "noun",
+      "definition_en": "A settlement; an area with residential districts, shops and amenities, and its own local government; especially one larger than a village and smaller than a city, historically enclosed by a fence or walls, with total populations ranging from several hundred to more than a hundred thousand (as of the early 21st century)",
+      "definition_es": "",
+      "example_en": "This town is really dangerous because these youngsters have Beretta handguns.",
+      "example_es": "",
+      "ipa": "/taʊn/"
+    },
+    {
+      "word": "he",
+      "part_of_speech": "pronoun",
+      "definition_en": "A person who identifies as male, or animal already known or implied.",
+      "definition_es": "",
+      "example_en": "That friend of your cousin's, he's on the phone.",
+      "example_es": "",
+      "ipa": "/ˈhiː/"
+    },
+    {
+      "word": "barely",
+      "part_of_speech": "adverb",
+      "definition_en": "By a small margin.",
+      "definition_es": "",
+      "example_en": "I barely completed my homework. However, I got a score of 5 for it.",
+      "example_es": "",
+      "ipa": "/ˈbɛə(ɹ).li/"
+    },
+    {
+      "word": "knew",
+      "part_of_speech": "verb",
+      "definition_en": "To perceive the truth or factuality of; to be certain of; to be certain that.",
+      "definition_es": "conocer",
+      "example_en": "Question things. I have the most fun when I'm writing questioning things that people do not question- the assumptions that everybody knows are true.",
+      "example_es": "",
+      "ipa": "/nəʊ/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "He",
+      "part_of_speech": "pronoun",
+      "definition_en": "A person who identifies as male, or animal already known or implied.",
+      "definition_es": "",
+      "example_en": "That friend of your cousin's, he's on the phone.",
+      "example_es": "",
+      "ipa": "/ˈhiː/"
+    },
+    {
+      "word": "had",
+      "part_of_speech": "verb",
+      "definition_en": "To possess, own.",
+      "definition_es": "",
+      "example_en": "I have a house and a car.",
+      "example_es": "",
+      "ipa": "/həv/"
+    },
+    {
+      "word": "arrived",
+      "part_of_speech": "verb",
+      "definition_en": "To reach; to get to a certain place.",
+      "definition_es": "llegar",
+      "example_en": "We've just arrived at the hotel to book in, so we should arrive at Mike’s in time for lunch.",
+      "example_es": "",
+      "ipa": "/əˈɹaɪv/"
+    },
+    {
+      "word": "only",
+      "part_of_speech": "adjective",
+      "definition_en": "Alone in a category.",
+      "definition_es": "",
+      "example_en": "He is the only doctor for miles.",
+      "example_es": "",
+      "ipa": "/ˈəʊn.li/"
+    },
+    {
+      "word": "that",
+      "part_of_speech": "conjunction",
+      "definition_en": "Introducing a clause that is the object of a verb, especially a reporting verb or verb expressing belief, knowledge, perception, etc.",
+      "definition_es": "que",
+      "example_en": "He told me that the book is a good read.",
+      "example_es": "",
+      "ipa": "/ðət/"
+    },
+    {
+      "word": "morning",
+      "part_of_speech": "noun",
+      "definition_en": "The early part of the day, especially from midnight to noon.",
+      "definition_es": "mañana",
+      "example_en": "I'll see you tomorrow morning.",
+      "example_es": "",
+      "ipa": "/ˈmɔːnɪŋ/"
+    },
+    {
+      "word": "for",
+      "part_of_speech": "conjunction",
+      "definition_en": "Because.",
+      "definition_es": "",
+      "example_en": "I had to stay with my wicked stepmother, for I had nowhere else to go.",
+      "example_es": "",
+      "ipa": "/fɔː(ɹ)/"
+    },
+    {
+      "word": "a",
+      "part_of_speech": "character",
+      "definition_en": "The first letter of the English alphabet, called a and written in the Latin script.",
+      "definition_es": "",
+      "example_en": "Apple starts with A.",
+      "example_es": "",
+      "ipa": "/eɪ̯/"
+    },
+    {
+      "word": "short",
+      "part_of_speech": "adjective",
+      "definition_en": "Having a small distance from one end or edge to another, either horizontally or vertically.",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ʃɔːt/"
+    },
+    {
+      "word": "business",
+      "part_of_speech": "noun",
+      "definition_en": "A specific commercial enterprise or establishment.",
+      "definition_es": "",
+      "example_en": "I left my father's business.",
+      "example_es": "",
+      "ipa": "/ˈbɪz.nɪs/"
+    },
+    {
+      "word": "trip",
+      "part_of_speech": "noun",
+      "definition_en": "A journey; an excursion or jaunt.",
+      "definition_es": "",
+      "example_en": "We made a trip to the beach.",
+      "example_es": "",
+      "ipa": "/tɹɪp/"
+    },
+    {
+      "word": ",",
+      "punctuation": true
+    },
+    {
+      "word": "yet",
+      "part_of_speech": "adverb",
+      "definition_en": "Thus far; up to the present; up to some unspecified time.",
+      "definition_es": "aún",
+      "example_en": "I haven't finished yet.",
+      "example_es": "",
+      "ipa": "/jɛt/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_en": "Used before a noun phrase, including a simple noun",
+      "definition_es": "el",
+      "example_en": "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+      "example_es": "",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "unfamiliar",
+      "part_of_speech": "adjective",
+      "definition_en": "Strange, not familiar.",
+      "definition_es": "",
+      "example_en": "United were second-best for long periods as they struggled to adapt to an unfamiliar line-up and were ultimately fortunate to leave Merseyside with their unbeaten league run still intact.",
+      "example_es": "",
+      "ipa": "/ˌʌnfəˈmɪli.ə(ɹ)/"
+    },
+    {
+      "word": "place",
+      "part_of_speech": "noun",
+      "definition_en": "An area; somewhere within an area.",
+      "definition_es": "",
+      "example_en": "Ay, sir, the other squirrel was stolen from me by the hangman's boys in the market-place",
+      "example_es": "",
+      "ipa": "/pleɪs/"
+    },
+    {
+      "word": "already",
+      "part_of_speech": "adverb",
+      "definition_en": "Prior to some specified time, either past, present, or future; by this time; previously.",
+      "definition_es": "",
+      "example_en": "I was surprised that she hadn’t already told me the news.",
+      "example_es": "",
+      "ipa": "/ɔːlˈɹɛdi/"
+    },
+    {
+      "word": "felt",
+      "part_of_speech": "verb",
+      "definition_en": "To use or experience the sense of touch.",
+      "definition_es": "sentir",
+      "example_en": "You can feel a heartbeat if you put your fingers on your breast.",
+      "example_es": "",
+      "ipa": "/fiːl/"
+    },
+    {
+      "word": "strangely",
+      "part_of_speech": "adverb",
+      "definition_en": "In a strange or coincidental manner.",
+      "definition_es": "",
+      "example_en": "Though I'd never gone to Boston before, everything looked strangely familiar.",
+      "example_es": "",
+      "ipa": "/ˈstɹeɪnd͡ʒli/"
+    },
+    {
+      "word": "significant",
+      "part_of_speech": "adjective",
+      "definition_en": "Signifying something; carrying meaning.",
+      "definition_es": "",
+      "example_en": "a significant word or sound",
+      "example_es": "",
+      "ipa": "/sɪɡˈnɪf.ɪ.kənt/"
+    },
+    {
+      "word": ",",
+      "punctuation": true
+    },
+    {
+      "word": "as",
+      "part_of_speech": "adverb",
+      "definition_en": "To such an extent or degree; to the same extent or degree.",
+      "definition_es": "",
+      "example_en": "She regards her kids as (being) as holy as saints.",
+      "example_es": "",
+      "ipa": "/əz/"
+    },
+    {
+      "word": "if",
+      "part_of_speech": "conjunction",
+      "definition_en": "Supposing that, assuming that, in the circumstances that; used to introduce a condition that may be (or prove to be) either true or false.",
+      "definition_es": "si",
+      "example_en": "If crossing the road, make sure you look both ways.",
+      "example_es": "",
+      "ipa": "/ɪf/"
+    },
+    {
+      "word": "something",
+      "part_of_speech": "pronoun",
+      "definition_en": "An uncertain or unspecified thing; one thing.",
+      "definition_es": "",
+      "example_en": "I must have forgotten to pack something, but I can't think what.",
+      "example_es": "",
+      "ipa": "/ˈsʌm.θɪŋ/"
+    },
+    {
+      "word": "important",
+      "part_of_speech": "adjective",
+      "definition_en": "Having relevant and crucial value; having import.",
+      "definition_es": "",
+      "example_en": "We thought it important for there to be a fire escape at the back of every building.",
+      "example_es": "",
+      "ipa": "/ɪmˈpɔː.tənt/"
+    },
+    {
+      "word": "was",
+      "part_of_speech": "verb",
+      "definition_en": "As an auxiliary verb:",
+      "definition_es": "ser",
+      "example_en": "The dog was saved by the boy.",
+      "example_es": "",
+      "ipa": "/biː/"
+    },
+    {
+      "word": "waiting",
+      "part_of_speech": "verb",
+      "definition_en": "To delay movement or action until some event or time; to remain neglected or in readiness.",
+      "definition_es": "",
+      "example_en": "Wait here until your car arrives.",
+      "example_es": "",
+      "ipa": "/weɪt/"
+    },
+    {
+      "word": "to",
+      "part_of_speech": "particle",
+      "definition_en": "A particle used for marking the following verb as an infinitive.",
+      "definition_es": "",
+      "example_en": "I want to leave.",
+      "example_es": "",
+      "ipa": "/tuː/"
+    },
+    {
+      "word": "happen",
+      "part_of_speech": "verb",
+      "definition_en": "To occur or take place.",
+      "definition_es": "",
+      "example_en": "Let me tell you how it happened.",
+      "example_es": "",
+      "ipa": "/ˈhæpən/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "The",
+      "part_of_speech": "article",
+      "definition_en": "Used before a noun phrase, including a simple noun",
+      "definition_es": "el",
+      "example_en": "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+      "example_es": "",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "streets",
+      "part_of_speech": "noun",
+      "definition_en": "A paved part of road, usually in a village or a town.",
+      "definition_es": "calle",
+      "example_en": "Walk down the street until you see a hotel on the right.",
+      "example_es": "",
+      "ipa": "/stɹiːt/"
+    },
+    {
+      "word": "were",
+      "part_of_speech": "verb",
+      "definition_en": "As an auxiliary verb:",
+      "definition_es": "ser",
+      "example_en": "The dog was saved by the boy.",
+      "example_es": "",
+      "ipa": "/biː/"
+    },
+    {
+      "word": "nearly",
+      "part_of_speech": "adverb",
+      "definition_en": "In close approximation; almost, virtually.",
+      "definition_es": "",
+      "example_en": "He left a nearly full beer on the bar.",
+      "example_es": "",
+      "ipa": "/ˈnɪəlɪ/"
+    },
+    {
+      "word": "empty",
+      "part_of_speech": "adjective",
+      "definition_en": "Devoid of content; containing nothing or nobody; vacant.",
+      "definition_es": "",
+      "example_en": "an empty purse",
+      "example_es": "",
+      "ipa": "/ˈɛmp.ti/"
+    },
+    {
+      "word": ",",
+      "punctuation": true
+    },
+    {
+      "word": "and",
+      "part_of_speech": "conjunction",
+      "definition_en": "As a coordinating conjunction; expressing two elements to be taken together or in addition to each other.",
+      "definition_es": "y",
+      "example_en": "Soupes dorye. — Take gode almaunde mylke […] caste þher-to Safroun an Salt […]",
+      "example_es": "",
+      "ipa": "/ænd/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_en": "Used before a noun phrase, including a simple noun",
+      "definition_es": "el",
+      "example_en": "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+      "example_es": "",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "quiet",
+      "part_of_speech": "adjective",
+      "definition_en": "With little or no sound; free of disturbing noise.",
+      "definition_es": "",
+      "example_en": "I can't hear the music; it is too quiet.",
+      "example_es": "",
+      "ipa": "/ˈkwaɪ.ɪt/"
+    },
+    {
+      "word": "was",
+      "part_of_speech": "verb",
+      "definition_en": "As an auxiliary verb:",
+      "definition_es": "ser",
+      "example_en": "The dog was saved by the boy.",
+      "example_es": "",
+      "ipa": "/biː/"
+    },
+    {
+      "word": "broken",
+      "part_of_speech": "verb",
+      "definition_en": "past participle of break",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ˈbɹəʊ.kn̩/"
+    },
+    {
+      "word": "only",
+      "part_of_speech": "adjective",
+      "definition_en": "Alone in a category.",
+      "definition_es": "",
+      "example_en": "He is the only doctor for miles.",
+      "example_es": "",
+      "ipa": "/ˈəʊn.li/"
+    },
+    {
+      "word": "by",
+      "part_of_speech": "preposition",
+      "definition_en": "Near or next to.",
+      "definition_es": "por",
+      "example_en": "The mailbox is by the bus stop.",
+      "example_es": "",
+      "ipa": "/baɪ/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_en": "Used before a noun phrase, including a simple noun",
+      "definition_es": "el",
+      "example_en": "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+      "example_es": "",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "distant",
+      "part_of_speech": "adjective",
+      "definition_en": "Far off (physically, logically or mentally).",
+      "definition_es": "",
+      "example_en": "We heard a distant rumbling but didn't pay any more attention to it. She was surprised to find that her fiancé was a distant relative of hers. His distant look showed that he was not listening to me.",
+      "example_es": "",
+      "ipa": "/ˈdɪstənt/"
+    },
+    {
+      "word": "hum",
+      "part_of_speech": "noun",
+      "definition_en": "A hummed tune, i.e. created orally with lips closed.",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ˈhʌm/"
+    },
+    {
+      "word": "of",
+      "part_of_speech": "preposition",
+      "definition_en": "Expressing distance or motion.",
+      "definition_es": "de",
+      "example_en": "Take the chicken out of the freezer.",
+      "example_es": "",
+      "ipa": "/ɒv/"
+    },
+    {
+      "word": "traffic",
+      "part_of_speech": "noun",
+      "definition_en": "Moving pedestrians or vehicles, or the flux or passage thereof.",
+      "definition_es": "tráfico",
+      "example_en": "The traffic is slow during rush hour.",
+      "example_es": "",
+      "ipa": "/ˈtɹæfɪk/"
+    },
+    {
+      "word": "and",
+      "part_of_speech": "conjunction",
+      "definition_en": "As a coordinating conjunction; expressing two elements to be taken together or in addition to each other.",
+      "definition_es": "y",
+      "example_en": "Soupes dorye. — Take gode almaunde mylke […] caste þher-to Safroun an Salt […]",
+      "example_es": "",
+      "ipa": "/ænd/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_en": "Used before a noun phrase, including a simple noun",
+      "definition_es": "el",
+      "example_en": "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+      "example_es": "",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "occasional",
+      "part_of_speech": "adjective",
+      "definition_en": "Occurring or appearing irregularly from time to time, but not often; incidental.",
+      "definition_es": "",
+      "example_en": "He was mostly solitary, but enjoyed the occasional visitor.",
+      "example_es": "",
+      "ipa": "/əˈkeɪʒ(ə)nəl/"
+    },
+    {
+      "word": "sound",
+      "part_of_speech": "adjective",
+      "definition_en": "Healthy.",
+      "definition_es": "",
+      "example_en": "He was safe and sound.",
+      "example_es": "",
+      "ipa": "/saʊnd/"
+    },
+    {
+      "word": "of",
+      "part_of_speech": "preposition",
+      "definition_en": "Expressing distance or motion.",
+      "definition_es": "de",
+      "example_en": "Take the chicken out of the freezer.",
+      "example_es": "",
+      "ipa": "/ɒv/"
+    },
+    {
+      "word": "footsteps",
+      "part_of_speech": "noun",
+      "definition_en": "The mark or impression left by a foot; a track.",
+      "definition_es": "",
+      "example_en": "The child watched as his footsteps in the sand were washed away by the waves.",
+      "example_es": "",
+      "ipa": "/ˈfʊtstɛp/"
+    },
+    {
+      "word": "echoing",
+      "part_of_speech": "noun",
+      "definition_en": "A reflected sound that is heard again by its initial observer.",
+      "definition_es": "",
+      "example_en": "The babbling echo mocks the hounds.",
+      "example_es": "",
+      "ipa": "/ˈɛkəʊ/"
+    },
+    {
+      "word": "against",
+      "part_of_speech": "preposition",
+      "definition_en": "In a contrary direction to.",
+      "definition_es": "",
+      "example_en": "It is hard work to swim against the current.",
+      "example_es": "",
+      "ipa": "/əˈɡɛnst/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_en": "Used before a noun phrase, including a simple noun",
+      "definition_es": "el",
+      "example_en": "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+      "example_es": "",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "old",
+      "part_of_speech": "adjective",
+      "definition_en": "Of an object, concept, relationship, etc., having existed for a relatively long period of time.",
+      "definition_es": "antiguo",
+      "example_en": "an old abandoned building",
+      "example_es": "",
+      "ipa": "/ˈəʊld/"
+    },
+    {
+      "word": "stone",
+      "part_of_speech": "noun",
+      "definition_en": "A hard earthen substance that can form rocks; especially, such substance when regarded as a building material.",
+      "definition_es": "piedra",
+      "example_en": "Toad, that vnder cold ſtone, / Dayes and Nights ha’s thirty one: / Sweltred Venom ſleeping got, / Boyle thou firſt i’th’ charmed pot.",
+      "example_es": "",
+      "ipa": "/stəʊ̯n/"
+    },
+    {
+      "word": "buildings",
+      "part_of_speech": "noun",
+      "definition_en": "The act or process by which something is built; construction.",
+      "definition_es": "",
+      "example_en": "The building of the bridge will be completed in a couple of weeks.",
+      "example_es": "",
+      "ipa": "/ˈbɪl.dɪŋ/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "As",
+      "part_of_speech": "adverb",
+      "definition_en": "To such an extent or degree; to the same extent or degree.",
+      "definition_es": "",
+      "example_en": "She regards her kids as (being) as holy as saints.",
+      "example_es": "",
+      "ipa": "/əz/"
+    },
+    {
+      "word": "Daniel",
+      "part_of_speech": "proper noun",
+      "definition_en": "A book in the Old Testament of the Bible.",
+      "definition_es": "Daniel",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ˈdænjəl/"
+    },
+    {
+      "word": "walked",
+      "part_of_speech": "verb",
+      "definition_en": "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run.",
+      "definition_es": "",
+      "example_en": "To walk briskly for an hour every day is to keep fit.",
+      "example_es": "",
+      "ipa": "/wɔːk/"
+    },
+    {
+      "word": ",",
+      "punctuation": true
+    },
+    {
+      "word": "he",
+      "part_of_speech": "pronoun",
+      "definition_en": "A person who identifies as male, or animal already known or implied.",
+      "definition_es": "",
+      "example_en": "That friend of your cousin's, he's on the phone.",
+      "example_es": "",
+      "ipa": "/ˈhiː/"
+    },
+    {
+      "word": "noticed",
+      "part_of_speech": "noun",
+      "definition_en": "The act of observing; perception.",
+      "definition_es": "",
+      "example_en": "He took no notice of the changes, and went on as though nothing had happened.",
+      "example_es": "",
+      "ipa": "/ˈnəʊ.tɪs/"
+    },
+    {
+      "word": "a",
+      "part_of_speech": "character",
+      "definition_en": "The first letter of the English alphabet, called a and written in the Latin script.",
+      "definition_es": "",
+      "example_en": "Apple starts with A.",
+      "example_es": "",
+      "ipa": "/eɪ̯/"
+    },
+    {
+      "word": "small",
+      "part_of_speech": "adjective",
+      "definition_en": "Not large or big; insignificant; few in number.",
+      "definition_es": "pequeño",
+      "example_en": "A small serving of ice cream.",
+      "example_es": "",
+      "ipa": "/smɔl/"
+    },
+    {
+      "word": "bookstore",
+      "part_of_speech": "noun",
+      "definition_en": "A store where books are bought and sold.",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ˈbʊkstɔː/"
+    },
+    {
+      "word": "tucked",
+      "part_of_speech": "verb",
+      "definition_en": "To pull or gather up (an item of fabric).",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/tʌk/"
+    },
+    {
+      "word": "between",
+      "part_of_speech": "preposition",
+      "definition_en": "In the position or interval that separates (two things), or intermediate in quantity or degree. (See Usage notes below.)",
+      "definition_es": "",
+      "example_en": "John stood between Amy and Mary.    Let’s meet between two and three.",
+      "example_es": "",
+      "ipa": "/bɪˈtwiːn/"
+    },
+    {
+      "word": "two",
+      "part_of_speech": "num",
+      "definition_en": "A numerical value equal to 2; this many dots (••).",
+      "definition_es": "",
+      "example_en": "Venters began to count them—one—two—three—four—on up to sixteen.",
+      "example_es": "",
+      "ipa": "/tu/"
+    },
+    {
+      "word": "caf",
+      "part_of_speech": "proper noun",
+      "definition_en": "Initialism of Canadian Armed Forces.",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": ""
+    },
+    {
+      "word": "é",
+      "punctuation": true
+    },
+    {
+      "word": "s",
+      "part_of_speech": "character",
+      "definition_en": "The nineteenth letter of the English alphabet, called ess and written in the Latin script.",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ɛs/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "Its",
+      "part_of_speech": "determiner",
+      "definition_en": "Belonging to it.",
+      "definition_es": "",
+      "example_en": "The manner wherewith our Lawes assay to moderate the foolish and vaine expences of table-cheare and apparell, seemeth contrarie to it's end.",
+      "example_es": "",
+      "ipa": "/ɪts/"
+    },
+    {
+      "word": "window",
+      "part_of_speech": "noun",
+      "definition_en": "An opening, usually covered by one or more panes of clear glass, to allow light and air from outside to enter a building or vehicle.",
+      "definition_es": "",
+      "example_en": "She opened the window to let some air in.",
+      "example_es": "",
+      "ipa": "/ˈwɪndəʊ/"
+    },
+    {
+      "word": "displayed",
+      "part_of_speech": "noun",
+      "definition_en": "A show or spectacle.",
+      "definition_es": "",
+      "example_en": "The trapeze artist put on an amazing acrobatic display.",
+      "example_es": "",
+      "ipa": "/dɪsˈpleɪ/"
+    },
+    {
+      "word": "a",
+      "part_of_speech": "character",
+      "definition_en": "The first letter of the English alphabet, called a and written in the Latin script.",
+      "definition_es": "",
+      "example_en": "Apple starts with A.",
+      "example_es": "",
+      "ipa": "/eɪ̯/"
+    },
+    {
+      "word": "collection",
+      "part_of_speech": "noun",
+      "definition_en": "A set of items or amount of material procured, gathered or presented together.",
+      "definition_es": "colección",
+      "example_en": "The attic contains a remarkable collection of antiques, oddities, and random junk.",
+      "example_es": "",
+      "ipa": "/kəˈlɛkʃən/"
+    },
+    {
+      "word": "of",
+      "part_of_speech": "preposition",
+      "definition_en": "Expressing distance or motion.",
+      "definition_es": "de",
+      "example_en": "Take the chicken out of the freezer.",
+      "example_es": "",
+      "ipa": "/ɒv/"
+    },
+    {
+      "word": "worn",
+      "part_of_speech": "adjective",
+      "definition_en": "Damaged and shabby as a result of much use.",
+      "definition_es": "",
+      "example_en": "Upon this, an unhappy-looking woman, in a sort of mourning, neat, but sadly worn, hid her face behind a meagre bundle, and was heard to sob.",
+      "example_es": "",
+      "ipa": "/wɔːn/"
+    },
+    {
+      "word": "novels",
+      "part_of_speech": "adjective",
+      "definition_en": "Newly made, formed or evolved; having no precedent; of recent origin; new.",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ˈnɒvəl/"
+    },
+    {
+      "word": "and",
+      "part_of_speech": "conjunction",
+      "definition_en": "As a coordinating conjunction; expressing two elements to be taken together or in addition to each other.",
+      "definition_es": "y",
+      "example_en": "Soupes dorye. — Take gode almaunde mylke […] caste þher-to Safroun an Salt […]",
+      "example_es": "",
+      "ipa": "/ænd/"
+    },
+    {
+      "word": "faded",
+      "part_of_speech": "adjective",
+      "definition_en": "That has lost some of its former vividness and colour.",
+      "definition_es": "",
+      "example_en": "a faded tablecloth",
+      "example_es": "",
+      "ipa": "/ˈfeɪdɪd/"
+    },
+    {
+      "word": "travel",
+      "part_of_speech": "verb",
+      "definition_en": "To be on a journey, often for pleasure or business and with luggage; to go from one place to another.",
+      "definition_es": "",
+      "example_en": "John seems to spend as much time travelling as he does in the office.",
+      "example_es": "",
+      "ipa": "/ˈtɹævəl/"
+    },
+    {
+      "word": "journals",
+      "part_of_speech": "noun",
+      "definition_en": "A diary or daily record of a person, organization, vessel etc.; daybook.",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ˈd͡ʒɝnəl/"
+    },
+    {
+      "word": ",",
+      "punctuation": true
+    },
+    {
+      "word": "illuminated",
+      "part_of_speech": "adjective",
+      "definition_en": "Irradiated by light, lit.",
+      "definition_es": "",
+      "example_en": "A flash of emerald light briefly illuminated the forest, and the stone vanished.",
+      "example_es": "",
+      "ipa": "/ɪˈlumɪneɪtɪd/"
+    },
+    {
+      "word": "by",
+      "part_of_speech": "preposition",
+      "definition_en": "Near or next to.",
+      "definition_es": "por",
+      "example_en": "The mailbox is by the bus stop.",
+      "example_es": "",
+      "ipa": "/baɪ/"
+    },
+    {
+      "word": "a",
+      "part_of_speech": "character",
+      "definition_en": "The first letter of the English alphabet, called a and written in the Latin script.",
+      "definition_es": "",
+      "example_en": "Apple starts with A.",
+      "example_es": "",
+      "ipa": "/eɪ̯/"
+    },
+    {
+      "word": "warm",
+      "part_of_speech": "adjective",
+      "definition_en": "Of a somewhat high temperature, often but not always connoting that the high temperature is pleasant rather than uncomfortable.",
+      "definition_es": "",
+      "example_en": "The tea is still warm.",
+      "example_es": "",
+      "ipa": "/wɔːm/"
+    },
+    {
+      "word": "yellow",
+      "part_of_speech": "noun",
+      "definition_en": "The color of sunflower petals and lemons; the color obtained by mixing green and red light, or by subtracting blue from white light; the color evoked by light of wavelength around 580 nm; one of the three primary colors in subtractive color systems.",
+      "definition_es": "",
+      "example_en": "It is the strangest yellow, that wall-paper! It makes me think of all the yellow things I ever saw—not beautiful ones like buttercups, but old foul, bad yellow things.",
+      "example_es": "",
+      "ipa": "/ˈjɛl.əʊ/"
+    },
+    {
+      "word": "light",
+      "part_of_speech": "noun",
+      "definition_en": "Electromagnetic radiation in the wavelength range visible to the human eye (about 400–750 nanometers): visible light.",
+      "definition_es": "luz",
+      "example_en": "As you can see, this spacious dining-room gets a lot of light in the mornings.",
+      "example_es": "",
+      "ipa": "/laɪt/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "Curious",
+      "part_of_speech": "adjective",
+      "definition_en": "Tending to ask questions, or to want to explore or investigate; inquisitive; (with a negative connotation) nosy, prying.",
+      "definition_es": "",
+      "example_en": "Young children are naturally curious about the world and everything in it.",
+      "example_es": "",
+      "ipa": "/ˈkjʊə.ɹi.əs/"
+    },
+    {
+      "word": ",",
+      "punctuation": true
+    },
+    {
+      "word": "he",
+      "part_of_speech": "pronoun",
+      "definition_en": "A person who identifies as male, or animal already known or implied.",
+      "definition_es": "",
+      "example_en": "That friend of your cousin's, he's on the phone.",
+      "example_es": "",
+      "ipa": "/ˈhiː/"
+    },
+    {
+      "word": "pushed",
+      "part_of_speech": "verb",
+      "definition_en": "To apply a force to (an object) such that it moves away from the person or thing applying the force.",
+      "definition_es": "",
+      "example_en": "In his anger he pushed me against the wall and threatened me.",
+      "example_es": "",
+      "ipa": "/pʊʃ/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_en": "Used before a noun phrase, including a simple noun",
+      "definition_es": "el",
+      "example_en": "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+      "example_es": "",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "door",
+      "part_of_speech": "noun",
+      "definition_en": "A portal of entry into a building, room, or vehicle, typically consisting of a rigid plane movable on a hinge. It may have a handle to help open and close, a latch to hold it closed, and a lock that ensures it cannot be opened without a key.",
+      "definition_es": "",
+      "example_en": "I knocked on the vice president's door.",
+      "example_es": "",
+      "ipa": "/do(ː)ɹ/"
+    },
+    {
+      "word": "open",
+      "part_of_speech": "adjective",
+      "definition_en": "Physically unobstructed, uncovered, etc.",
+      "definition_es": "abierto",
+      "example_en": "Come in – the door's open.",
+      "example_es": "",
+      "ipa": "/ˈəʊ.pən/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "A",
+      "part_of_speech": "character",
+      "definition_en": "The first letter of the English alphabet, called a and written in the Latin script.",
+      "definition_es": "",
+      "example_en": "Apple starts with A.",
+      "example_es": "",
+      "ipa": "/eɪ̯/"
+    },
+    {
+      "word": "small",
+      "part_of_speech": "adjective",
+      "definition_en": "Not large or big; insignificant; few in number.",
+      "definition_es": "pequeño",
+      "example_en": "A small serving of ice cream.",
+      "example_es": "",
+      "ipa": "/smɔl/"
+    },
+    {
+      "word": "bell",
+      "part_of_speech": "noun",
+      "definition_en": "A percussive instrument made of metal or other hard material, typically but not always in the shape of an inverted cup with a flared rim, which resonates when struck.",
+      "definition_es": "",
+      "example_en": "HEAR the sledges with the bells —\nSilver bells!\nWhat a world of merriment their melody foretells!",
+      "example_es": "",
+      "ipa": "/bɛl/"
+    },
+    {
+      "word": "rang",
+      "part_of_speech": "noun",
+      "definition_en": "A solid object in the shape of a circle.",
+      "definition_es": "corro",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ɹɪŋ/"
+    },
+    {
+      "word": "softly",
+      "part_of_speech": "adverb",
+      "definition_en": "In a soft manner; gently.",
+      "definition_es": "",
+      "example_en": "The masseuse was rubbing my back too softly for my liking, so I asked her to go harder.",
+      "example_es": "",
+      "ipa": "/ˈsɔftli/"
+    },
+    {
+      "word": "above",
+      "part_of_speech": "preposition",
+      "definition_en": "Physically over; on top of; worn on top of, said of clothing.",
+      "definition_es": "fuera de alcance",
+      "example_en": "He always put his coat on above his sweater.",
+      "example_es": "",
+      "ipa": "/əˈbʌv/"
+    },
+    {
+      "word": "his",
+      "part_of_speech": "determiner",
+      "definition_en": "Belonging to him.",
+      "definition_es": "",
+      "example_en": "With that he put his ſpurres vnto his ſteed,\n With ſpeare in reſt, and toward him did fare,\n Like ſhaft out of a bow preuenting ſpeed.",
+      "example_es": "",
+      "ipa": "/ɪ̈z/"
+    },
+    {
+      "word": "head",
+      "part_of_speech": "noun",
+      "definition_en": "The part of the body of an animal or human which contains the brain, mouth, and main sense organs.",
+      "definition_es": "cabeza",
+      "example_en": "Be careful when you pet that dog on the head; it may bite.",
+      "example_es": "",
+      "ipa": "/ˈhɛd/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "Inside",
+      "part_of_speech": "noun",
+      "definition_en": "The interior or inner part.",
+      "definition_es": "",
+      "example_en": "The inside of the building has been extensively restored.",
+      "example_es": "",
+      "ipa": "/ˈɪnsaɪd/"
+    },
+    {
+      "word": ",",
+      "punctuation": true
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_en": "Used before a noun phrase, including a simple noun",
+      "definition_es": "el",
+      "example_en": "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+      "example_es": "",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "air",
+      "part_of_speech": "noun",
+      "definition_en": "The substance constituting Earth's atmosphere: a gaseous mixture of nitrogen, oxygen, and various trace gases.",
+      "definition_es": "aire",
+      "example_en": "This drill runs on compressed air.",
+      "example_es": "",
+      "ipa": "/ɛə/"
+    },
+    {
+      "word": "smelled",
+      "part_of_speech": "noun",
+      "definition_en": "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance.",
+      "definition_es": "",
+      "example_en": "I love the smell of fresh bread.",
+      "example_es": "",
+      "ipa": "/smɛl/"
+    },
+    {
+      "word": "of",
+      "part_of_speech": "preposition",
+      "definition_en": "Expressing distance or motion.",
+      "definition_es": "de",
+      "example_en": "Take the chicken out of the freezer.",
+      "example_es": "",
+      "ipa": "/ɒv/"
+    },
+    {
+      "word": "dust",
+      "part_of_speech": "noun",
+      "definition_en": "Fine particles.",
+      "definition_es": "polvo",
+      "example_en": "There is so much dust released during the process of laying ballast that the trackside operator wears a full face mask with respirator.",
+      "example_es": "",
+      "ipa": "/dʌst/"
+    },
+    {
+      "word": "and",
+      "part_of_speech": "conjunction",
+      "definition_en": "As a coordinating conjunction; expressing two elements to be taken together or in addition to each other.",
+      "definition_es": "y",
+      "example_en": "Soupes dorye. — Take gode almaunde mylke […] caste þher-to Safroun an Salt […]",
+      "example_es": "",
+      "ipa": "/ænd/"
+    },
+    {
+      "word": "paper",
+      "part_of_speech": "noun",
+      "definition_en": "A sheet material typically used for writing on or printing on (or as a non-waterproof container), usually made by draining cellulose fibres from a suspension in water.",
+      "definition_es": "",
+      "example_en": "Draw on the paper! Not on the walls!",
+      "example_es": "",
+      "ipa": "/ˈpeɪ̯.pə/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "Behind",
+      "part_of_speech": "preposition",
+      "definition_en": "At or to the back or far side of.",
+      "definition_es": "detrás de",
+      "example_en": "The children were hiding behind the wall.",
+      "example_es": "",
+      "ipa": "/bɪˈhaɪnd/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_en": "Used before a noun phrase, including a simple noun",
+      "definition_es": "el",
+      "example_en": "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+      "example_es": "",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "counter",
+      "part_of_speech": "noun",
+      "definition_en": "One who counts.",
+      "definition_es": "",
+      "example_en": "He's only 16 months, but is already a good counter – he can count to 100.",
+      "example_es": "",
+      "ipa": "/ˈkaʊn.tə/"
+    },
+    {
+      "word": "sat",
+      "part_of_speech": "verb",
+      "definition_en": "To be in a position in which the upper body is upright and supported by the buttocks.",
+      "definition_es": "",
+      "example_en": "After a long day of walking, it was good just to sit and relax.",
+      "example_es": "",
+      "ipa": "/sɪt/"
+    },
+    {
+      "word": "an",
+      "part_of_speech": "article",
+      "definition_en": "Form of a (all article senses).",
+      "definition_es": "un",
+      "example_en": "I'll be there in half an hour.",
+      "example_es": "",
+      "ipa": "/ˈæn/"
+    },
+    {
+      "word": "elderly",
+      "part_of_speech": "adjective",
+      "definition_en": "old; having lived for relatively many years.",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ˈɛldɚli/"
+    },
+    {
+      "word": "woman",
+      "part_of_speech": "noun",
+      "definition_en": "An adult female human.",
+      "definition_es": "mujer",
+      "example_en": "But this woman is a nice German woman that fell on the ice and sprained her ankle last winter, and we saw to her well as we could till she got better.",
+      "example_es": "",
+      "ipa": "/ˈwʊm.ən/"
+    },
+    {
+      "word": "reading",
+      "part_of_speech": "verb",
+      "definition_en": "To look at and interpret letters or other information that is written.",
+      "definition_es": "leer",
+      "example_en": "Have you read this book?",
+      "example_es": "",
+      "ipa": "/ɹiːd/"
+    },
+    {
+      "word": "a",
+      "part_of_speech": "character",
+      "definition_en": "The first letter of the English alphabet, called a and written in the Latin script.",
+      "definition_es": "",
+      "example_en": "Apple starts with A.",
+      "example_es": "",
+      "ipa": "/eɪ̯/"
+    },
+    {
+      "word": "thick",
+      "part_of_speech": "adjective",
+      "definition_en": "Relatively great in extent from one surface to the opposite in its smallest solid dimension.",
+      "definition_es": "",
+      "example_en": "The thickest salmon, the curdiest trout, the fattest partridge, and the most tender woodcock smoked on his board, and, rumor said, cooked with a delicacy that more pretentious houses could not rival.",
+      "example_es": "",
+      "ipa": "/θɪk/"
+    },
+    {
+      "word": "book",
+      "part_of_speech": "noun",
+      "definition_en": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+      "definition_es": "",
+      "example_en": "Knowing I lou'd my bookes, he furniſhd me / From mine owne Library, with volumes, that / I prize aboue my Dukedome.",
+      "example_es": "",
+      "ipa": "/bʊk/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "“",
+      "punctuation": true
+    },
+    {
+      "word": "Looking",
+      "part_of_speech": "verb",
+      "definition_en": "To try to see, to pay attention to with one’s eyes.",
+      "definition_es": "mirar",
+      "example_en": "They kept looking at me.",
+      "example_es": "",
+      "ipa": "/lʊk/"
+    },
+    {
+      "word": "for",
+      "part_of_speech": "conjunction",
+      "definition_en": "Because.",
+      "definition_es": "",
+      "example_en": "I had to stay with my wicked stepmother, for I had nowhere else to go.",
+      "example_es": "",
+      "ipa": "/fɔː(ɹ)/"
+    },
+    {
+      "word": "something",
+      "part_of_speech": "pronoun",
+      "definition_en": "An uncertain or unspecified thing; one thing.",
+      "definition_es": "",
+      "example_en": "I must have forgotten to pack something, but I can't think what.",
+      "example_es": "",
+      "ipa": "/ˈsʌm.θɪŋ/"
+    },
+    {
+      "word": "in",
+      "part_of_speech": "preposition",
+      "definition_en": "Used to indicate location, inclusion, or position within spatial, temporal or abstract limits.",
+      "definition_es": "en",
+      "example_en": "The dog is in the kennel.",
+      "example_es": "",
+      "ipa": "/ən/"
+    },
+    {
+      "word": "particular",
+      "part_of_speech": "adjective",
+      "definition_en": "Pertaining only to a part of something; partial.",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/pəˈtɪk.jʊ.lə/"
+    },
+    {
+      "word": "?",
+      "punctuation": true
+    },
+    {
+      "word": "”",
+      "punctuation": true
+    },
+    {
+      "word": "she",
+      "part_of_speech": "pronoun",
+      "definition_en": "The female (typically) person or animal previously mentioned or implied.",
+      "definition_es": "ella",
+      "example_en": "I asked Mary, but she said that she didn't know.",
+      "example_es": "",
+      "ipa": "/ʃiː/"
+    },
+    {
+      "word": "asked",
+      "part_of_speech": "verb",
+      "definition_en": "To request or petition.",
+      "definition_es": "pedir",
+      "example_en": "I asked her age.",
+      "example_es": "",
+      "ipa": "/ɑːsk/"
+    },
+    {
+      "word": "without",
+      "part_of_speech": "adverb",
+      "definition_en": "Outside, externally.",
+      "definition_es": "",
+      "example_en": "And as each and all of them were warmed without by the sun, so each had a private little sun for her soul to bask in; some dream, some affection, some hobby, at least some remote and distant hope which, though perhaps starving to nothing, still lived on, as hopes will.",
+      "example_es": "",
+      "ipa": "/wɪðˈaʊt/"
+    },
+    {
+      "word": "looking",
+      "part_of_speech": "verb",
+      "definition_en": "To try to see, to pay attention to with one’s eyes.",
+      "definition_es": "mirar",
+      "example_en": "They kept looking at me.",
+      "example_es": "",
+      "ipa": "/lʊk/"
+    },
+    {
+      "word": "up",
+      "part_of_speech": "adverb",
+      "definition_en": "Indicating movement towards or location at a higher place or position.",
+      "definition_es": "",
+      "example_en": "I looked up and saw the airplane overhead.",
+      "example_es": "",
+      "ipa": "/ʌp/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "Daniel",
+      "part_of_speech": "proper noun",
+      "definition_en": "A book in the Old Testament of the Bible.",
+      "definition_es": "Daniel",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ˈdænjəl/"
+    },
+    {
+      "word": "hesitated",
+      "part_of_speech": "verb",
+      "definition_en": "To stop or pause respecting decision or action; to be in suspense or uncertainty as to a determination.",
+      "definition_es": "",
+      "example_en": "He hesitated whether to accept the offer or not; men often hesitate in forming a judgment.",
+      "example_es": "",
+      "ipa": "/ˈhɛz.ɪ.teɪt/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "“",
+      "punctuation": true
+    },
+    {
+      "word": "Not",
+      "part_of_speech": "adverb",
+      "definition_en": "Negates the meaning of the modified verb.",
+      "definition_es": "",
+      "example_en": "Did you take out the trash? — No, I did not. I do not think it was my turn, was it?",
+      "example_es": "",
+      "ipa": "/nɒt/"
+    },
+    {
+      "word": "really",
+      "part_of_speech": "adverb",
+      "definition_en": "In a way or manner that is real, not unreal.",
+      "definition_es": "",
+      "example_en": "We are to believe that by an extraordinary Conception by Means of the holy Ghost he in an extraordinary MANNER, (unknown to us) really assumed Flesh, and was by her nourished in the Womb and in due Time born in a natural Manner, and that whilst on Earth he was really hungry, and dry, and eat and drank as really as other Men, without, any Deception of Sight in us or Delusion whatsoever.",
+      "example_es": "",
+      "ipa": "/ˈɹɪə.li/"
+    },
+    {
+      "word": ",",
+      "punctuation": true
+    },
+    {
+      "word": "”",
+      "punctuation": true
+    },
+    {
+      "word": "he",
+      "part_of_speech": "pronoun",
+      "definition_en": "A person who identifies as male, or animal already known or implied.",
+      "definition_es": "",
+      "example_en": "That friend of your cousin's, he's on the phone.",
+      "example_es": "",
+      "ipa": "/ˈhiː/"
+    },
+    {
+      "word": "said",
+      "part_of_speech": "verb",
+      "definition_en": "To pronounce.",
+      "definition_es": "digamos",
+      "example_en": "Please say your name slowly and clearly.",
+      "example_es": "",
+      "ipa": "/seɪ/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "“",
+      "punctuation": true
+    },
+    {
+      "word": "I",
+      "part_of_speech": "character",
+      "definition_en": "The ninth letter of the English alphabet, called i and written in the Latin script.",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/aɪ/"
+    },
+    {
+      "word": "suppose",
+      "part_of_speech": "verb",
+      "definition_en": "To take for granted; to conclude, with less than absolute supporting data; to believe.",
+      "definition_es": "",
+      "example_en": "I suppose we all agree that this is the best solution.",
+      "example_es": "",
+      "ipa": "/səˈpəʊz/"
+    },
+    {
+      "word": "I",
+      "part_of_speech": "character",
+      "definition_en": "The ninth letter of the English alphabet, called i and written in the Latin script.",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/aɪ/"
+    },
+    {
+      "word": "’",
+      "punctuation": true
+    },
+    {
+      "word": "m",
+      "part_of_speech": "character",
+      "definition_en": "The thirteenth letter of the English alphabet, called em and written in the Latin script.",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ɛm/"
+    },
+    {
+      "word": "just",
+      "part_of_speech": "adjective",
+      "definition_en": "Factually right, correct; factual.",
+      "definition_es": "justo",
+      "example_en": "It is a just assessment of the facts.",
+      "example_es": "",
+      "ipa": "/d͡ʒʌst/"
+    },
+    {
+      "word": "looking",
+      "part_of_speech": "verb",
+      "definition_en": "To try to see, to pay attention to with one’s eyes.",
+      "definition_es": "mirar",
+      "example_en": "They kept looking at me.",
+      "example_es": "",
+      "ipa": "/lʊk/"
+    },
+    {
+      "word": "around",
+      "part_of_speech": "preposition",
+      "definition_en": "Forming a circle or closed curve containing (something).",
+      "definition_es": "",
+      "example_en": "She wore a gold chain around her neck.",
+      "example_es": "",
+      "ipa": "/əˈɹaʊnd/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "”",
+      "punctuation": true
+    },
+    {
+      "word": "The",
+      "part_of_speech": "article",
+      "definition_en": "Used before a noun phrase, including a simple noun",
+      "definition_es": "el",
+      "example_en": "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+      "example_es": "",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "woman",
+      "part_of_speech": "noun",
+      "definition_en": "An adult female human.",
+      "definition_es": "mujer",
+      "example_en": "But this woman is a nice German woman that fell on the ice and sprained her ankle last winter, and we saw to her well as we could till she got better.",
+      "example_es": "",
+      "ipa": "/ˈwʊm.ən/"
+    },
+    {
+      "word": "finally",
+      "part_of_speech": "adverb",
+      "definition_en": "At the end or conclusion; ultimately.",
+      "definition_es": "finalmente",
+      "example_en": "The contest was long, but the Romans finally conquered.",
+      "example_es": "",
+      "ipa": "/ˈfaɪ.nl̩.i/"
+    },
+    {
+      "word": "lifted",
+      "part_of_speech": "verb",
+      "definition_en": "To raise or rise.",
+      "definition_es": "levantar",
+      "example_en": "The fog eventually lifted, leaving the streets clear.",
+      "example_es": "",
+      "ipa": "/lɪft/"
+    },
+    {
+      "word": "her",
+      "part_of_speech": "determiner",
+      "definition_en": "Belonging to her (belonging to that female person or animal, or in poetic or old-fashioned language that ship, city, season, etc).",
+      "definition_es": "su",
+      "example_en": "This is her book",
+      "example_es": "",
+      "ipa": "/ˈhɜː/"
+    },
+    {
+      "word": "eyes",
+      "part_of_speech": "noun",
+      "definition_en": "An organ through which animals see (“perceive surroundings via light”).",
+      "definition_es": "",
+      "example_en": "Near-synonym: eyeball",
+      "example_es": "",
+      "ipa": "/aɪ/"
+    },
+    {
+      "word": "and",
+      "part_of_speech": "conjunction",
+      "definition_en": "As a coordinating conjunction; expressing two elements to be taken together or in addition to each other.",
+      "definition_es": "y",
+      "example_en": "Soupes dorye. — Take gode almaunde mylke […] caste þher-to Safroun an Salt […]",
+      "example_es": "",
+      "ipa": "/ænd/"
+    },
+    {
+      "word": "smiled",
+      "part_of_speech": "noun",
+      "definition_en": "A facial expression comprised by flexing the muscles of both ends of one's mouth, often showing the front teeth, without vocalisation, and in humans is a common involuntary or voluntary expression of happiness, pleasure, amusement, goodwill, or anxiety.",
+      "definition_es": "",
+      "example_en": "She's got a perfect smile.",
+      "example_es": "",
+      "ipa": "/ˈsmaɪl/"
+    },
+    {
+      "word": "knowingly",
+      "part_of_speech": "adverb",
+      "definition_en": "In the manner of one who knows.",
+      "definition_es": "sabiamente",
+      "example_en": "She smiled knowingly, but kept the secret.",
+      "example_es": "",
+      "ipa": ""
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "“",
+      "punctuation": true
+    },
+    {
+      "word": "That",
+      "part_of_speech": "conjunction",
+      "definition_en": "Introducing a clause that is the object of a verb, especially a reporting verb or verb expressing belief, knowledge, perception, etc.",
+      "definition_es": "que",
+      "example_en": "He told me that the book is a good read.",
+      "example_es": "",
+      "ipa": "/ðət/"
+    },
+    {
+      "word": "’",
+      "punctuation": true
+    },
+    {
+      "word": "s",
+      "part_of_speech": "character",
+      "definition_en": "The nineteenth letter of the English alphabet, called ess and written in the Latin script.",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ɛs/"
+    },
+    {
+      "word": "usually",
+      "part_of_speech": "adverb",
+      "definition_en": "Most of the time; less than always, but more than occasionally.",
+      "definition_es": "",
+      "example_en": "Except for one or two days a year, he usually walks to work.",
+      "example_es": "",
+      "ipa": "/ˈjuːʒʊəli/"
+    },
+    {
+      "word": "when",
+      "part_of_speech": "adverb",
+      "definition_en": "At what time? At which time? Upon which occasion or circumstance? Used to introduce direct or indirect questions about time.",
+      "definition_es": "cuándo",
+      "example_en": "When will they arrive?",
+      "example_es": "",
+      "ipa": "/ʍɛn/"
+    },
+    {
+      "word": "people",
+      "part_of_speech": "noun",
+      "definition_en": "An individual who has been granted personhood; usually a human being.",
+      "definition_es": "persona",
+      "example_en": "1784, William Jones, The Description and Use of a New Portable Orrery, &c., PREFACE\nTHE favourable reception the Orrery has met with from Perſons of the firſt diſtinction, and from Gentlemen and Ladies in general, has induced me to add to it ſeveral new improvements in order to give it a degree of Perfection; and diſtinguiſh it from others; which by Piracy, or Imitation, may be introduced to the Public.",
+      "example_es": "",
+      "ipa": "/pɜːrsn̩/"
+    },
+    {
+      "word": "find",
+      "part_of_speech": "verb",
+      "definition_en": "To locate",
+      "definition_es": "creer",
+      "example_en": "I found this shell on the beach.",
+      "example_es": "",
+      "ipa": "/faɪnd/"
+    },
+    {
+      "word": "exactly",
+      "part_of_speech": "adverb",
+      "definition_en": "Without approximation; precisely.",
+      "definition_es": "",
+      "example_en": "Measure exactly so we can be sure it is right.",
+      "example_es": "",
+      "ipa": "/ɪɡˈzæk(t).li/"
+    },
+    {
+      "word": "what",
+      "part_of_speech": "determiner",
+      "definition_en": "Which, especially which of an open-ended set of possibilities.",
+      "definition_es": "qué",
+      "example_en": "What colour are you going to use?",
+      "example_es": "",
+      "ipa": "/wɒt/"
+    },
+    {
+      "word": "they",
+      "part_of_speech": "pronoun",
+      "definition_en": "A group of entities previously mentioned.",
+      "definition_es": "",
+      "example_en": "Fred and Jane? They just arrived.",
+      "example_es": "",
+      "ipa": "/ðeɪ/"
+    },
+    {
+      "word": "need",
+      "part_of_speech": "noun",
+      "definition_en": "A requirement for something; something needed.",
+      "definition_es": "",
+      "example_en": "There's no need to speculate; we can easily find out for sure.",
+      "example_es": "",
+      "ipa": "/niːd/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "”",
+      "punctuation": true
+    },
+    {
+      "word": "Daniel",
+      "part_of_speech": "proper noun",
+      "definition_en": "A book in the Old Testament of the Bible.",
+      "definition_es": "Daniel",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ˈdænjəl/"
+    },
+    {
+      "word": "spent",
+      "part_of_speech": "verb",
+      "definition_en": "To pay out (money).",
+      "definition_es": "",
+      "example_en": "He spends far more on gambling than he does on living proper.",
+      "example_es": "",
+      "ipa": "/spɛnd/"
+    },
+    {
+      "word": "nearly",
+      "part_of_speech": "adverb",
+      "definition_en": "In close approximation; almost, virtually.",
+      "definition_es": "",
+      "example_en": "He left a nearly full beer on the bar.",
+      "example_es": "",
+      "ipa": "/ˈnɪəlɪ/"
+    },
+    {
+      "word": "an",
+      "part_of_speech": "article",
+      "definition_en": "Form of a (all article senses).",
+      "definition_es": "un",
+      "example_en": "I'll be there in half an hour.",
+      "example_es": "",
+      "ipa": "/ˈæn/"
+    },
+    {
+      "word": "hour",
+      "part_of_speech": "noun",
+      "definition_en": "A unit of time of one twenty-fourth of a day (sixty minutes).",
+      "definition_es": "hora",
+      "example_en": "Holonyms: day < week < megasecond < fortnight < month < year < gigasecond < century < kiloannum, kiloyear, millennium < terasecond < mega-annum, megayear < petasecond < giga-annum, gigayear < exasecond < zettasecond < yottasecond < ronnasecond < quettasecond",
+      "example_es": "",
+      "ipa": "/aʊə/"
+    },
+    {
+      "word": "browsing",
+      "part_of_speech": "verb",
+      "definition_en": "To scan, to casually look through in order to find items of interest, especially without knowledge of what to look for beforehand.",
+      "definition_es": "",
+      "example_en": "I'm just browsing around.",
+      "example_es": "",
+      "ipa": "/bɹaʊz/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_en": "Used before a noun phrase, including a simple noun",
+      "definition_es": "el",
+      "example_en": "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+      "example_es": "",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "shelves",
+      "part_of_speech": "noun",
+      "definition_en": "A flat, rigid structure, fixed at right angles to a wall or forming a part of a cabinet, desk, etc., and used to display, store, or support objects.",
+      "definition_es": "",
+      "example_en": "We keep the old newspapers on the bottom shelf of the cupboard, and our photos on the top shelf.",
+      "example_es": "",
+      "ipa": "/ʃɛlf/"
+    },
+    {
+      "word": "before",
+      "part_of_speech": "preposition",
+      "definition_en": "Earlier than (in time).",
+      "definition_es": "",
+      "example_en": "I want this done before Monday.",
+      "example_es": "",
+      "ipa": "/bɪˈfɔː/"
+    },
+    {
+      "word": "choosing",
+      "part_of_speech": "verb",
+      "definition_en": "To pick; to make the choice of; to select.",
+      "definition_es": "",
+      "example_en": "I chose a nice ripe apple from the fruit bowl.",
+      "example_es": "",
+      "ipa": "/t͡ʃuːz/"
+    },
+    {
+      "word": "a",
+      "part_of_speech": "character",
+      "definition_en": "The first letter of the English alphabet, called a and written in the Latin script.",
+      "definition_es": "",
+      "example_en": "Apple starts with A.",
+      "example_es": "",
+      "ipa": "/eɪ̯/"
+    },
+    {
+      "word": "thin",
+      "part_of_speech": "adjective",
+      "definition_en": "Having little thickness or extent from one surface to its opposite.",
+      "definition_es": "",
+      "example_en": "thin plate of metal; thin paper; thin board; thin covering",
+      "example_es": "",
+      "ipa": "/θɪn/"
+    },
+    {
+      "word": ",",
+      "punctuation": true
+    },
+    {
+      "word": "forgotten",
+      "part_of_speech": "verb",
+      "definition_en": "To lose remembrance of.",
+      "definition_es": "",
+      "example_en": "I have forgotten most of the things I learned in school.",
+      "example_es": "",
+      "ipa": "/fəˈɡɛt/"
+    },
+    {
+      "word": "journal",
+      "part_of_speech": "noun",
+      "definition_en": "A diary or daily record of a person, organization, vessel etc.; daybook.",
+      "definition_es": "",
+      "example_en": "",
+      "example_es": "",
+      "ipa": "/ˈd͡ʒɝnəl/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    },
+    {
+      "word": "Strangely",
+      "part_of_speech": "adverb",
+      "definition_en": "In a strange or coincidental manner.",
+      "definition_es": "",
+      "example_en": "Though I'd never gone to Boston before, everything looked strangely familiar.",
+      "example_es": "",
+      "ipa": "/ˈstɹeɪnd͡ʒli/"
+    },
+    {
+      "word": "enough",
+      "part_of_speech": "determiner",
+      "definition_en": "Sufficient; all that is required, needed, or appropriate.",
+      "definition_es": "bastante",
+      "example_en": "I've already had enough coffee today.",
+      "example_es": "",
+      "ipa": "/ɪˈnʌf/"
+    },
+    {
+      "word": ",",
+      "punctuation": true
+    },
+    {
+      "word": "as",
+      "part_of_speech": "adverb",
+      "definition_en": "To such an extent or degree; to the same extent or degree.",
+      "definition_es": "",
+      "example_en": "She regards her kids as (being) as holy as saints.",
+      "example_es": "",
+      "ipa": "/əz/"
+    },
+    {
+      "word": "he",
+      "part_of_speech": "pronoun",
+      "definition_en": "A person who identifies as male, or animal already known or implied.",
+      "definition_es": "",
+      "example_en": "That friend of your cousin's, he's on the phone.",
+      "example_es": "",
+      "ipa": "/ˈhiː/"
+    },
+    {
+      "word": "stepped",
+      "part_of_speech": "noun",
+      "definition_en": "An advance or movement made from one foot to the other; a pace.",
+      "definition_es": "",
+      "example_en": "Turning back, then, toward the basement staircase, she began to grope her way through blinding darkness, but had taken only a few uncertain steps when, of a sudden, she stopped short and for a little stood like a stricken thing, quite motionless save that she quaked to her very marrow in the grasp of a great and enervating fear.",
+      "example_es": "",
+      "ipa": "/stɛp/"
+    },
+    {
+      "word": "back",
+      "part_of_speech": "adjective",
+      "definition_en": "At or near the rear.",
+      "definition_es": "",
+      "example_en": "Go in the back door of the house.",
+      "example_es": "",
+      "ipa": "/bæk/"
+    },
+    {
+      "word": "into",
+      "part_of_speech": "preposition",
+      "definition_en": "To or towards the inside of.",
+      "definition_es": "en",
+      "example_en": "Mary danced into the house.",
+      "example_es": "",
+      "ipa": "/ˈɪn.tuː/"
+    },
+    {
+      "word": "the",
+      "part_of_speech": "article",
+      "definition_en": "Used before a noun phrase, including a simple noun",
+      "definition_es": "el",
+      "example_en": "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+      "example_es": "",
+      "ipa": "/ðə/"
+    },
+    {
+      "word": "cool",
+      "part_of_speech": "adjective",
+      "definition_en": "Of a mildly low temperature.",
+      "definition_es": "",
+      "example_en": "I like cool weather the most 'cause it's not too hot to wear a jacket but I won't be too cold in my shorts.",
+      "example_es": "",
+      "ipa": "/kuːl/"
+    },
+    {
+      "word": "night",
+      "part_of_speech": "noun",
+      "definition_en": "The time when the Sun is below the horizon when the sky is dark.",
+      "definition_es": "",
+      "example_en": "Most animals are awake at day and sleep at night.",
+      "example_es": "",
+      "ipa": "/naɪt/"
+    },
+    {
+      "word": "air",
+      "part_of_speech": "noun",
+      "definition_en": "The substance constituting Earth's atmosphere: a gaseous mixture of nitrogen, oxygen, and various trace gases.",
+      "definition_es": "aire",
+      "example_en": "This drill runs on compressed air.",
+      "example_es": "",
+      "ipa": "/ɛə/"
+    },
+    {
+      "word": ",",
+      "punctuation": true
+    },
+    {
+      "word": "he",
+      "part_of_speech": "pronoun",
+      "definition_en": "A person who identifies as male, or animal already known or implied.",
+      "definition_es": "",
+      "example_en": "That friend of your cousin's, he's on the phone.",
+      "example_es": "",
+      "ipa": "/ˈhiː/"
+    },
+    {
+      "word": "felt",
+      "part_of_speech": "verb",
+      "definition_en": "To use or experience the sense of touch.",
+      "definition_es": "sentir",
+      "example_en": "You can feel a heartbeat if you put your fingers on your breast.",
+      "example_es": "",
+      "ipa": "/fiːl/"
+    },
+    {
+      "word": "certain",
+      "part_of_speech": "adjective",
+      "definition_en": "Sure in one's mind, positive; absolutely confident in the truth of something.",
+      "definition_es": "seguro",
+      "example_en": "I was certain of my decision.",
+      "example_es": "",
+      "ipa": "/ˈsɜː.tən/"
+    },
+    {
+      "word": "that",
+      "part_of_speech": "conjunction",
+      "definition_en": "Introducing a clause that is the object of a verb, especially a reporting verb or verb expressing belief, knowledge, perception, etc.",
+      "definition_es": "que",
+      "example_en": "He told me that the book is a good read.",
+      "example_es": "",
+      "ipa": "/ðət/"
+    },
+    {
+      "word": "this",
+      "part_of_speech": "determiner",
+      "definition_en": "The (thing) here (used in indicating something or someone nearby).",
+      "definition_es": "este",
+      "example_en": "This classroom is where I learned to read and write.",
+      "example_es": "",
+      "ipa": "/ðɪs/"
+    },
+    {
+      "word": "unexpected",
+      "part_of_speech": "adjective",
+      "definition_en": "Not expected, anticipated or foreseen.",
+      "definition_es": "",
+      "example_en": "She was a fat, round little woman, richly apparelled in velvet and lace, […]; and the way she laughed, cackling like a hen, the way she talked to the waiters and the maid,[…]—all these unexpected phenomena impelled one to hysterical mirth, and made one class her with such immortally ludicrous types as Ally Sloper, the Widow Twankey, or Miss Moucher.",
+      "example_es": "",
+      "ipa": "/ʌnɪkˈspɛktɪd/"
+    },
+    {
+      "word": "discovery",
+      "part_of_speech": "noun",
+      "definition_en": "Something discovered.",
+      "definition_es": "",
+      "example_en": "This latest discovery should eventually lead to much better treatments for disease.",
+      "example_es": "",
+      "ipa": "/dɪsˈkʌv(.ə).ɹi/"
+    },
+    {
+      "word": "would",
+      "part_of_speech": "verb",
+      "definition_en": "Past tense of will; usually followed by a bare infinitive.",
+      "definition_es": "conditional tense",
+      "example_en": "On my first day at University, I met the woman who would become my wife.",
+      "example_es": "",
+      "ipa": "/wəd/"
+    },
+    {
+      "word": "change",
+      "part_of_speech": "verb",
+      "definition_en": "To become something different.",
+      "definition_es": "",
+      "example_en": "The tadpole changed into a frog.",
+      "example_es": "",
+      "ipa": "/t͡ʃeɪnd͡ʒ/"
+    },
+    {
+      "word": "something",
+      "part_of_speech": "pronoun",
+      "definition_en": "An uncertain or unspecified thing; one thing.",
+      "definition_es": "",
+      "example_en": "I must have forgotten to pack something, but I can't think what.",
+      "example_es": "",
+      "ipa": "/ˈsʌm.θɪŋ/"
+    },
+    {
+      "word": "in",
+      "part_of_speech": "preposition",
+      "definition_en": "Used to indicate location, inclusion, or position within spatial, temporal or abstract limits.",
+      "definition_es": "en",
+      "example_en": "The dog is in the kennel.",
+      "example_es": "",
+      "ipa": "/ən/"
+    },
+    {
+      "word": "his",
+      "part_of_speech": "determiner",
+      "definition_en": "Belonging to him.",
+      "definition_es": "",
+      "example_en": "With that he put his ſpurres vnto his ſteed,\n With ſpeare in reſt, and toward him did fare,\n Like ſhaft out of a bow preuenting ſpeed.",
+      "example_es": "",
+      "ipa": "/ɪ̈z/"
+    },
+    {
+      "word": "life",
+      "part_of_speech": "noun",
+      "definition_en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
+      "definition_es": "vida",
+      "example_en": "I want my kids to live a good life.  He gave up on life.",
+      "example_es": "",
+      "ipa": "/laɪf/"
+    },
+    {
+      "word": ".",
+      "punctuation": true
+    }
+  ],
+  "dictionary": {}
+}
