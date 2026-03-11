@@ -5,6 +5,7 @@ Thing to learn about typescript:
  - what are composables in vue?
  - typescript generics
  - typescript type vs interface
+ - spread operator
 
 
 Future features of the app: 

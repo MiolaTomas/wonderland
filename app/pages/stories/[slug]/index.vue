@@ -83,15 +83,6 @@ function onWordClick(entry: WordEntry, index: number) {
     selectedIndex.value = index
     selectedWord.value = hasDefinition(entry) ? entry : null
 }
-
-// ─── Debug ───────────────────────────────────────────────────────────────────
-
-const unmappedPos = computed(() => [...new Set(
-    story.value
-        .filter(w => w.part_of_speech && !posColorMap[w.part_of_speech.toLowerCase()])
-        .map(w => w.part_of_speech)
-)])
-console.log('Unmapped POS:', unmappedPos.value)
 </script>
 
 <template>
@@ -99,19 +90,22 @@ console.log('Unmapped POS:', unmappedPos.value)
         <div class="max-w-6xl mx-auto">
 
             <!-- Page header -->
-            <div class="mb-8">
-                <h1 class="text-3xl font-bold tracking-tight">{{ storyTitle }}</h1>
-                <div class="flex items-center gap-2 mt-1">
-                    <UBadge variant="subtle" class="capitalize">{{ storyLevel }}</UBadge>
-                    <UBadge variant="subtle" class="capitalize">{{ storyGenre }}</UBadge>
-                    <USeparator orientation="vertical" class="h-4" />
-                    <p class="text-muted text-sm">Click any word to explore its definition and grammar.</p>
-                    <USeparator orientation="vertical" class="h-4" />
-                    <div class="flex items-center gap-1 text-muted text-sm">
-                        <UIcon name="lucide:clock" class="w-4 h-4" />
-                        <span>{{ readingTime }} min read</span>
+            <div class="mb-8 flex items-start justify-between gap-4">
+                <div>
+                    <h1 class="text-3xl font-bold tracking-tight">{{ storyTitle }}</h1>
+                    <div class="flex items-center gap-2 mt-1">
+                        <UBadge variant="subtle" class="capitalize">{{ storyLevel }}</UBadge>
+                        <UBadge variant="subtle" class="capitalize">{{ storyGenre }}</UBadge>
+                        <USeparator orientation="vertical" class="h-4" />
+                        <p class="text-muted text-sm">Click any word to explore its definition and grammar.</p>
+                        <USeparator orientation="vertical" class="h-4" />
+                        <div class="flex items-center gap-1 text-muted text-sm">
+                            <UIcon name="lucide:clock" class="w-4 h-4" />
+                            <span>{{ readingTime }} min read</span>
+                        </div>
                     </div>
                 </div>
+
             </div>
 
             <!-- Main layout -->
@@ -231,6 +225,29 @@ console.log('Unmapped POS:', unmappedPos.value)
 
                 </div>
             </div>
+
+            <!-- Quiz CTA -->
+            <div
+                class="mt-8 rounded-3xl border-2 border-slate-100 bg-white p-8 flex flex-col md:flex-row items-center justify-between gap-6">
+                <div>
+                    <p class="text-xs uppercase tracking-widest text-slate-400 mb-2"
+                        style="font-family: system-ui, sans-serif;">
+                        ¿Entendiste la historia?</p>
+                    <h2 class="text-2xl font-bold text-slate-800 mb-1" style="letter-spacing: -0.02em;">Poné a prueba lo
+                        que
+                        aprendiste</h2>
+                    <p class="text-sm text-slate-500" style="font-family: system-ui, sans-serif;">Respondé algunas
+                        preguntas sobre
+                        el vocabulario y la comprensión lectora.</p>
+                </div>
+                <NuxtLink :to="`/stories/${slug}/quiz`"
+                    class="shrink-0 px-6 py-3 rounded-2xl bg-slate-800 text-white text-sm font-medium hover:bg-slate-700 transition-all hover:scale-105 flex items-center gap-2"
+                    style="font-family: system-ui, sans-serif;">
+                    <UIcon name="lucide:pencil" class="w-4 h-4" />
+                    Empezar quiz →
+                </NuxtLink>
+            </div>
+
         </div>
     </div>
 </template>

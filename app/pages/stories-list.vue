@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { getGenreColors } from '@/utils/genre'
 import indexData from '@/data/stories/index.json'
 
 interface Story {
@@ -13,39 +14,20 @@ interface Story {
     minutes: number
 }
 
-// ─── Color map by genre ───────────────────────────────────────────────────────
-
-const genreColors: Record<string, { color: string; badge: string; accent: string }> = {
-    mystery: { color: 'bg-violet-50 border-violet-200', badge: 'bg-violet-100 text-violet-500', accent: 'bg-violet-200' },
-    adventure: { color: 'bg-amber-50 border-amber-200', badge: 'bg-amber-100 text-amber-600', accent: 'bg-amber-200' },
-    romance: { color: 'bg-rose-50 border-rose-200', badge: 'bg-rose-100 text-rose-500', accent: 'bg-rose-200' },
-    fantasy: { color: 'bg-teal-50 border-teal-200', badge: 'bg-teal-100 text-teal-500', accent: 'bg-teal-200' },
-    drama: { color: 'bg-stone-50 border-stone-200', badge: 'bg-stone-100 text-stone-500', accent: 'bg-stone-200' },
-    'sci-fi': { color: 'bg-cyan-50 border-cyan-200', badge: 'bg-cyan-100 text-cyan-600', accent: 'bg-cyan-200' },
-    horror: { color: 'bg-slate-50 border-slate-200', badge: 'bg-slate-100 text-slate-500', accent: 'bg-slate-200' },
-    comedy: { color: 'bg-yellow-50 border-yellow-200', badge: 'bg-yellow-100 text-yellow-600', accent: 'bg-yellow-200' },
-    thriller: { color: 'bg-orange-50 border-orange-200', badge: 'bg-orange-100 text-orange-500', accent: 'bg-orange-200' },
-    historical: { color: 'bg-lime-50 border-lime-200', badge: 'bg-lime-100 text-lime-600', accent: 'bg-lime-200' },
-}
-
-const fallbackColors = { color: 'bg-indigo-50 border-indigo-200', badge: 'bg-indigo-100 text-indigo-500', accent: 'bg-indigo-200' }
-
-function getGenreColors(genre: string) {
-    return genreColors[genre.toLowerCase()] ?? fallbackColors
-}
-
 // ─── Data ────────────────────────────────────────────────────────────────────
 
 const allStories: Story[] = indexData
 
+// Esto muestra los puntitos cuando se renderiza la historia
 const levelDots: Record<string, number> = { A1: 1, A2: 2, B1: 3, B2: 4, C1: 5, C2: 6 }
 const levels = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 const durations = [
-    { key: 'corta', label: 'Corta', hint: '< 4 min' },
-    { key: 'media', label: 'Media', hint: '4–7 min' },
-    { key: 'larga', label: 'Larga', hint: '> 7 min' },
+    { key: 'short', label: 'Corta', hint: '< 4 min' },
+    { key: 'medium', label: 'Media', hint: '4–7 min' },
+    { key: 'long', label: 'Larga', hint: '> 7 min' },
 ]
-const genres = [...new Set(allStories.map(s => s.genre))].sort()
+console.log('durations:', durations)
+// El array de genres se auto importa desde utils
 
 // ─── Filters ─────────────────────────────────────────────────────────────────
 
@@ -55,9 +37,12 @@ const selectedDurations = ref<string[]>([])
 const selectedGenres = ref<string[]>([])
 
 function toggleFilter<T>(arr: T[], value: T) {
+    console.log('toggling', value, 'in', arr)
     const idx = arr.indexOf(value)
     idx === -1 ? arr.push(value) : arr.splice(idx, 1)
 }
+
+// so essentialy the toggleFilter, if it finds doesn't find the value it adds it, if it finds it, it deletes it, is this right
 
 const activeFilterCount = computed(() =>
     selectedLevels.value.length + selectedDurations.value.length + selectedGenres.value.length
@@ -75,6 +60,7 @@ const filteredStories = computed(() =>
         const matchSearch = !search.value || s.title.toLowerCase().includes(search.value.toLowerCase())
         const matchLevel = !selectedLevels.value.length || selectedLevels.value.includes(s.level)
         const matchDuration = !selectedDurations.value.length || selectedDurations.value.includes(s.duration)
+        console.log(s.title, '| duration:', s.duration, '| match:', matchDuration, '| selected:', selectedDurations.value)
         const matchGenre = !selectedGenres.value.length || selectedGenres.value.includes(s.genre)
         return matchSearch && matchLevel && matchDuration && matchGenre
     })
@@ -82,7 +68,35 @@ const filteredStories = computed(() =>
 
 // ─── Pagination ───────────────────────────────────────────────────────────────
 
-const PER_PAGE = 10
+// const PER_PAGE = 10
+// const currentPage = ref(1)
+
+
+// watch([search, selectedLevels, selectedDurations, selectedGenres], () => {
+//     currentPage.value = 1
+// })
+
+// const totalPages = computed(() => Math.ceil(filteredStories.value.length / PER_PAGE))
+
+// const paginatedStories = computed(() => {
+//     const start = (currentPage.value - 1) * PER_PAGE
+//     return filteredStories.value.slice(start, start + PER_PAGE)
+// })
+
+// const pageNumbers = computed(() => {
+//     const total = totalPages.value
+//     const current = currentPage.value
+//     if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1)
+
+//     const pages: (number | '...')[] = [1]
+//     if (current > 3) pages.push('...')
+//     for (let i = Math.max(2, current - 1); i <= Math.min(total - 1, current + 1); i++) pages.push(i)
+//     if (current < total - 2) pages.push('...')
+//     pages.push(total)
+//     return pages
+// })
+
+const PER_PAGE = 5
 const currentPage = ref(1)
 
 // Reset to page 1 when filters change
@@ -90,25 +104,12 @@ watch([search, selectedLevels, selectedDurations, selectedGenres], () => {
     currentPage.value = 1
 })
 
-const totalPages = computed(() => Math.ceil(filteredStories.value.length / PER_PAGE))
-
 const paginatedStories = computed(() => {
     const start = (currentPage.value - 1) * PER_PAGE
     return filteredStories.value.slice(start, start + PER_PAGE)
 })
 
-const pageNumbers = computed(() => {
-    const total = totalPages.value
-    const current = currentPage.value
-    if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1)
 
-    const pages: (number | '...')[] = [1]
-    if (current > 3) pages.push('...')
-    for (let i = Math.max(2, current - 1); i <= Math.min(total - 1, current + 1); i++) pages.push(i)
-    if (current < total - 2) pages.push('...')
-    pages.push(total)
-    return pages
-})
 </script>
 
 <template>
@@ -204,8 +205,8 @@ const pageNumbers = computed(() => {
 
                     <div class="flex flex-wrap items-center gap-3 mb-6" style="font-family: system-ui, sans-serif;">
                         <p class="text-sm text-slate-500 shrink-0">
-                            Mostrando <span class="font-semibold text-slate-700">{{ filteredStories.length }}</span> de
-                            <span class="font-semibold text-slate-700">{{ allStories.length }}</span> historias
+                            Mostrando <span class="font-semibold text-slate-700">{{ paginatedStories.length }}</span> de
+                            <span class="font-semibold text-slate-700">{{ filteredStories.length }}</span> historias
                         </p>
                         <div class="relative flex-1">
                             <input v-model="search" type="text" placeholder="Buscar por título…"
@@ -273,34 +274,25 @@ const pageNumbers = computed(() => {
                     </div>
 
                     <!-- Pagination -->
-                    <div v-if="filteredStories.length > 0 && totalPages > 1"
-                        class="flex items-center justify-center gap-1 mt-8" style="font-family: system-ui, sans-serif;">
-                        <button :disabled="currentPage === 1" @click="currentPage--"
-                            class="px-3 py-2 rounded-xl text-sm border-2 border-slate-200 bg-white text-slate-600 hover:border-slate-300 disabled:opacity-30 disabled:cursor-not-allowed cursor-pointer transition-all">←</button>
-                        <template v-for="page in pageNumbers" :key="page">
-                            <span v-if="page === '...'" class="px-2 text-slate-400 text-sm">…</span>
-                            <button v-else @click="currentPage = page"
-                                class="w-9 h-9 rounded-xl text-sm font-medium border-2 transition-all"
-                                :class="currentPage === page
-                                    ? 'bg-slate-700 text-white border-slate-700'
-                                    : 'bg-white text-slate-600 border-slate-200 hover:border-slate-300 cursor-pointer'">{{ page
-                                    }}</button>
-                        </template>
-                        <button :disabled="currentPage === totalPages" @click="currentPage++"
-                            class="px-3 py-2 rounded-xl text-sm border-2 border-slate-200 bg-white text-slate-600 hover:border-slate-300 disabled:opacity-30 disabled:cursor-not-allowed cursor-pointer transition-all">→</button>
-                    </div>
-
-                    <!-- Empty state -->
-                    <div v-else-if="filteredStories.length === 0"
-                        class="flex flex-col items-center justify-center py-24 text-center">
+                    <UPagination v-if="filteredStories.length > 0" v-model:page="currentPage"
+                        :total="filteredStories.length" :items-per-page="PER_PAGE" class="mt-8 justify-center"
+                        :sibling-count="5" show-edges variant="subtle" active-color="info" :ui="{
+                            item: 'cursor-pointer px-1',
+                            ellipsis: 'px-1',
+                            label: 'cursor-pointer px-1',
+                            prev: 'cursor-pointer px-1',
+                            next: 'cursor-pointer px-1',
+                            first: 'cursor-pointer px-1',
+                            last: 'cursor-pointer px-1',
+                        }" />
+                    <div v-else class="flex flex-col items-center justify-center py-24 text-center">
                         <p class="text-5xl mb-4">🔍</p>
                         <h3 class="text-xl font-bold text-slate-700 mb-2">Sin resultados</h3>
-                        <p class="text-sm text-slate-400 mb-6" style="font-family: system-ui, sans-serif;">No
-                            encontramos historias con esos
-                            filtros. Probá con otros.</p>
+                        <p class="text-sm text-slate-400 mb-6">No encontramos historias con esos filtros. Probá con
+                            otros.</p>
                         <button
                             class="px-6 py-3 rounded-2xl bg-slate-700 text-white text-sm font-medium hover:bg-slate-600 transition-all"
-                            style="font-family: system-ui, sans-serif;" @click="clearAll">
+                            @click="clearAll">
                             Limpiar filtros
                         </button>
                     </div>
